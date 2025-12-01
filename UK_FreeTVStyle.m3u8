@@ -1,0 +1,1991 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="4Music" tvg-name="4Music" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Music",4Music
+http://127.0.0.1/dummy/4Music
+#EXTINF:-1 tvg-id="4seven" tvg-name="4seven" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",4seven
+http://127.0.0.1/dummy/4seven
+#EXTINF:-1 tvg-id="4seven HD" tvg-name="4seven HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",4seven HD
+http://127.0.0.1/dummy/4seven_HD
+#EXTINF:-1 tvg-id="5Action" tvg-name="5Action" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",5Action
+http://127.0.0.1/dummy/5Action
+#EXTINF:-1 tvg-id="5Action HD" tvg-name="5Action HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",5Action HD
+http://127.0.0.1/dummy/5Action_HD
+#EXTINF:-1 tvg-id="5SELECT" tvg-name="5SELECT" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",5SELECT
+http://127.0.0.1/dummy/5SELECT
+#EXTINF:-1 tvg-id="5STAR" tvg-name="5STAR" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",5STAR
+http://127.0.0.1/dummy/5STAR
+#EXTINF:-1 tvg-id="5STAR +1" tvg-name="5STAR +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",5STAR +1
+http://127.0.0.1/dummy/5STAR_plus1
+#EXTINF:-1 tvg-id="5USA" tvg-name="5USA" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",5USA
+http://127.0.0.1/dummy/5USA
+#EXTINF:-1 tvg-id="5USA +1" tvg-name="5USA +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",5USA +1
+http://127.0.0.1/dummy/5USA_plus1
+#EXTINF:-1 tvg-id="92 News" tvg-name="92 News" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="News",92 News
+http://127.0.0.1/dummy/92_News
+#EXTINF:-1 tvg-id="A1TV" tvg-name="A1TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",A1TV
+http://127.0.0.1/dummy/A1TV
+#EXTINF:-1 tvg-id="AAJ TAK" tvg-name="AAJ TAK" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="International",AAJ TAK
+http://127.0.0.1/dummy/AAJ_TAK
+#EXTINF:-1 tvg-id="Aastha" tvg-name="Aastha" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Religion",Aastha
+http://127.0.0.1/dummy/Aastha
+#EXTINF:-1 tvg-id="Ahlebait TV" tvg-name="Ahlebait TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Religion",Ahlebait TV
+http://127.0.0.1/dummy/Ahlebait_TV
+#EXTINF:-1 tvg-id="Akaal Channel" tvg-name="Akaal Channel" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Religion",Akaal Channel
+http://127.0.0.1/dummy/Akaal_Channel
+#EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="Al Jazeera English" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="News",Al Jazeera English
+http://127.0.0.1/dummy/Al_Jazeera_English
+#EXTINF:-1 tvg-id="Al Jazeera English HD" tvg-name="Al Jazeera English HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="News",Al Jazeera English HD
+http://127.0.0.1/dummy/Al_Jazeera_English_HD
+#EXTINF:-1 tvg-id="Alibi" tvg-name="Alibi" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Alibi
+http://127.0.0.1/dummy/Alibi
+#EXTINF:-1 tvg-id="Alibi +1" tvg-name="Alibi +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Alibi +1
+http://127.0.0.1/dummy/Alibi_plus1
+#EXTINF:-1 tvg-id="Alibi HD" tvg-name="Alibi HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Alibi HD
+http://127.0.0.1/dummy/Alibi_HD
+#EXTINF:-1 tvg-id="Alibi+1" tvg-name="Alibi+1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Alibi+1
+http://127.0.0.1/dummy/Alibiplus1
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",AMC
+http://127.0.0.1/dummy/AMC
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Animal Planet
+http://127.0.0.1/dummy/Animal_Planet
+#EXTINF:-1 tvg-id="Animal Planet +1" tvg-name="Animal Planet +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Animal Planet +1
+http://127.0.0.1/dummy/Animal_Planet_plus1
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Animal Planet HD
+http://127.0.0.1/dummy/Animal_Planet_HD
+#EXTINF:-1 tvg-id="Arirang HD" tvg-name="Arirang HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Arirang HD
+http://127.0.0.1/dummy/Arirang_HD
+#EXTINF:-1 tvg-id="Arise News" tvg-name="Arise News" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="News",Arise News
+http://127.0.0.1/dummy/Arise_News
+#EXTINF:-1 tvg-id="ARY Digital" tvg-name="ARY Digital" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="International",ARY Digital
+http://127.0.0.1/dummy/ARY_Digital
+#EXTINF:-1 tvg-id="ARY Family" tvg-name="ARY Family" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="International",ARY Family
+http://127.0.0.1/dummy/ARY_Family
+#EXTINF:-1 tvg-id="ATN" tvg-name="ATN" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ATN
+http://127.0.0.1/dummy/ATN
+#EXTINF:-1 tvg-id="Ayozat TV" tvg-name="Ayozat TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Ayozat TV
+http://127.0.0.1/dummy/Ayozat_TV
+#EXTINF:-1 tvg-id="B4U Movies" tvg-name="B4U Movies" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",B4U Movies
+http://127.0.0.1/dummy/B4U_Movies
+#EXTINF:-1 tvg-id="B4U Music" tvg-name="B4U Music" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Music",B4U Music
+http://127.0.0.1/dummy/B4U_Music
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Kids",Baby TV
+http://127.0.0.1/dummy/Baby_TV
+#EXTINF:-1 tvg-id="BBC Alba" tvg-name="BBC Alba" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC Alba
+http://127.0.0.1/dummy/BBC_Alba
+#EXTINF:-1 tvg-id="BBC Alba HD" tvg-name="BBC Alba HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC Alba HD
+http://127.0.0.1/dummy/BBC_Alba_HD
+#EXTINF:-1 tvg-id="BBC Four" tvg-name="BBC Four" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC Four
+http://127.0.0.1/dummy/BBC_Four
+#EXTINF:-1 tvg-id="BBC Four HD" tvg-name="BBC Four HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC Four HD
+http://127.0.0.1/dummy/BBC_Four_HD
+#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="News",BBC News
+http://127.0.0.1/dummy/BBC_News
+#EXTINF:-1 tvg-id="BBC News (Global)" tvg-name="BBC News (Global)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="News",BBC News (Global)
+http://127.0.0.1/dummy/BBC_News_(Global)
+#EXTINF:-1 tvg-id="BBC News HD" tvg-name="BBC News HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="News",BBC News HD
+http://127.0.0.1/dummy/BBC_News_HD
+#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One
+http://127.0.0.1/dummy/BBC_One
+#EXTINF:-1 tvg-id="BBC One HD" tvg-name="BBC One HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One HD
+http://127.0.0.1/dummy/BBC_One_HD
+#EXTINF:-1 tvg-id="BBC One Cambridgeshire" tvg-name="BBC One Cambridgeshire" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One Cambridgeshire
+http://127.0.0.1/dummy/BBC_One_Cambridgeshire
+#EXTINF:-1 tvg-id="BBC One Cambridgeshire HD" tvg-name="BBC One Cambridgeshire HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One Cambridgeshire HD
+http://127.0.0.1/dummy/BBC_One_Cambridgeshire_HD
+#EXTINF:-1 tvg-id="BBC One Channel Islands" tvg-name="BBC One Channel Islands" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One Channel Islands
+http://127.0.0.1/dummy/BBC_One_Channel_Islands
+#EXTINF:-1 tvg-id="BBC One Channel Islands HD" tvg-name="BBC One Channel Islands HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One Channel Islands HD
+http://127.0.0.1/dummy/BBC_One_Channel_Islands_HD
+#EXTINF:-1 tvg-id="BBC One East" tvg-name="BBC One East" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One East
+http://127.0.0.1/dummy/BBC_One_East
+#EXTINF:-1 tvg-id="BBC One East HD" tvg-name="BBC One East HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One East HD
+http://127.0.0.1/dummy/BBC_One_East_HD
+#EXTINF:-1 tvg-id="BBC One East Midlands" tvg-name="BBC One East Midlands" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One East Midlands
+http://127.0.0.1/dummy/BBC_One_East_Midlands
+#EXTINF:-1 tvg-id="BBC One East Midlands HD" tvg-name="BBC One East Midlands HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One East Midlands HD
+http://127.0.0.1/dummy/BBC_One_East_Midlands_HD
+#EXTINF:-1 tvg-id="BBC One London" tvg-name="BBC One London" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One London
+http://127.0.0.1/dummy/BBC_One_London
+#EXTINF:-1 tvg-id="BBC One London HD" tvg-name="BBC One London HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One London HD
+http://127.0.0.1/dummy/BBC_One_London_HD
+#EXTINF:-1 tvg-id="BBC One North East & Cumbria" tvg-name="BBC One North East & Cumbria" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One North East & Cumbria
+http://127.0.0.1/dummy/BBC_One_North_East_&_Cumbria
+#EXTINF:-1 tvg-id="BBC One North East & Cumbria HD" tvg-name="BBC One North East & Cumbria HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One North East & Cumbria HD
+http://127.0.0.1/dummy/BBC_One_North_East_&_Cumbria_HD
+#EXTINF:-1 tvg-id="BBC One North West" tvg-name="BBC One North West" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One North West
+http://127.0.0.1/dummy/BBC_One_North_West
+#EXTINF:-1 tvg-id="BBC One North West HD" tvg-name="BBC One North West HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One North West HD
+http://127.0.0.1/dummy/BBC_One_North_West_HD
+#EXTINF:-1 tvg-id="BBC One Northern Ireland" tvg-name="BBC One Northern Ireland" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One Northern Ireland
+http://127.0.0.1/dummy/BBC_One_Northern_Ireland
+#EXTINF:-1 tvg-id="BBC One Northern Ireland HD" tvg-name="BBC One Northern Ireland HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One Northern Ireland HD
+http://127.0.0.1/dummy/BBC_One_Northern_Ireland_HD
+#EXTINF:-1 tvg-id="BBC One Oxfordshire" tvg-name="BBC One Oxfordshire" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One Oxfordshire
+http://127.0.0.1/dummy/BBC_One_Oxfordshire
+#EXTINF:-1 tvg-id="BBC One Oxfordshire HD" tvg-name="BBC One Oxfordshire HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One Oxfordshire HD
+http://127.0.0.1/dummy/BBC_One_Oxfordshire_HD
+#EXTINF:-1 tvg-id="BBC One Scotland" tvg-name="BBC One Scotland" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One Scotland
+http://127.0.0.1/dummy/BBC_One_Scotland
+#EXTINF:-1 tvg-id="BBC One Scotland HD" tvg-name="BBC One Scotland HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One Scotland HD
+http://127.0.0.1/dummy/BBC_One_Scotland_HD
+#EXTINF:-1 tvg-id="BBC One South" tvg-name="BBC One South" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One South
+http://127.0.0.1/dummy/BBC_One_South
+#EXTINF:-1 tvg-id="BBC One South East" tvg-name="BBC One South East" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One South East
+http://127.0.0.1/dummy/BBC_One_South_East
+#EXTINF:-1 tvg-id="BBC One South East HD" tvg-name="BBC One South East HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One South East HD
+http://127.0.0.1/dummy/BBC_One_South_East_HD
+#EXTINF:-1 tvg-id="BBC One South HD" tvg-name="BBC One South HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One South HD
+http://127.0.0.1/dummy/BBC_One_South_HD
+#EXTINF:-1 tvg-id="BBC One South West" tvg-name="BBC One South West" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One South West
+http://127.0.0.1/dummy/BBC_One_South_West
+#EXTINF:-1 tvg-id="BBC One South West HD" tvg-name="BBC One South West HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One South West HD
+http://127.0.0.1/dummy/BBC_One_South_West_HD
+#EXTINF:-1 tvg-id="BBC One Wales" tvg-name="BBC One Wales" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One Wales
+http://127.0.0.1/dummy/BBC_One_Wales
+#EXTINF:-1 tvg-id="BBC One Wales HD" tvg-name="BBC One Wales HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One Wales HD
+http://127.0.0.1/dummy/BBC_One_Wales_HD
+#EXTINF:-1 tvg-id="BBC One West" tvg-name="BBC One West" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One West
+http://127.0.0.1/dummy/BBC_One_West
+#EXTINF:-1 tvg-id="BBC One West HD" tvg-name="BBC One West HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One West HD
+http://127.0.0.1/dummy/BBC_One_West_HD
+#EXTINF:-1 tvg-id="BBC One West Midlands" tvg-name="BBC One West Midlands" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One West Midlands
+http://127.0.0.1/dummy/BBC_One_West_Midlands
+#EXTINF:-1 tvg-id="BBC One West Midlands HD" tvg-name="BBC One West Midlands HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One West Midlands HD
+http://127.0.0.1/dummy/BBC_One_West_Midlands_HD
+#EXTINF:-1 tvg-id="BBC One Yorkshire" tvg-name="BBC One Yorkshire" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One Yorkshire
+http://127.0.0.1/dummy/BBC_One_Yorkshire
+#EXTINF:-1 tvg-id="BBC One Yorkshire HD" tvg-name="BBC One Yorkshire HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One Yorkshire HD
+http://127.0.0.1/dummy/BBC_One_Yorkshire_HD
+#EXTINF:-1 tvg-id="BBC One Yorkshire & Lincolnshire" tvg-name="BBC One Yorkshire & Lincolnshire" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One Yorkshire & Lincolnshire
+http://127.0.0.1/dummy/BBC_One_Yorkshire_&_Lincolnshire
+#EXTINF:-1 tvg-id="BBC One Yorkshire & Lincolnshire HD" tvg-name="BBC One Yorkshire & Lincolnshire HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC One Yorkshire & Lincolnshire HD
+http://127.0.0.1/dummy/BBC_One_Yorkshire_&_Lincolnshire_HD
+#EXTINF:-1 tvg-id="BBC Parliament" tvg-name="BBC Parliament" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC Parliament
+http://127.0.0.1/dummy/BBC_Parliament
+#EXTINF:-1 tvg-id="BBC Parliament HD" tvg-name="BBC Parliament HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC Parliament HD
+http://127.0.0.1/dummy/BBC_Parliament_HD
+#EXTINF:-1 tvg-id="BBC Red Button 1" tvg-name="BBC Red Button 1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Red Button 1
+http://127.0.0.1/dummy/BBC_Red_Button_1
+#EXTINF:-1 tvg-id="BBC Red Button 1 HD" tvg-name="BBC Red Button 1 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Red Button 1 HD
+http://127.0.0.1/dummy/BBC_Red_Button_1_HD
+#EXTINF:-1 tvg-id="BBC Red Button HD" tvg-name="BBC Red Button HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Red Button HD
+http://127.0.0.1/dummy/BBC_Red_Button_HD
+#EXTINF:-1 tvg-id="BBC Scotland" tvg-name="BBC Scotland" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC Scotland
+http://127.0.0.1/dummy/BBC_Scotland
+#EXTINF:-1 tvg-id="BBC Scotland HD" tvg-name="BBC Scotland HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC Scotland HD
+http://127.0.0.1/dummy/BBC_Scotland_HD
+#EXTINF:-1 tvg-id="BBC Scotland HD (Freeview)" tvg-name="BBC Scotland HD (Freeview)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC Scotland HD (Freeview)
+http://127.0.0.1/dummy/BBC_Scotland_HD_(Freeview)
+#EXTINF:-1 tvg-id="BBC Three" tvg-name="BBC Three" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC Three
+http://127.0.0.1/dummy/BBC_Three
+#EXTINF:-1 tvg-id="BBC Three HD" tvg-name="BBC Three HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC Three HD
+http://127.0.0.1/dummy/BBC_Three_HD
+#EXTINF:-1 tvg-id="BBC Two England" tvg-name="BBC Two England" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC Two England
+http://127.0.0.1/dummy/BBC_Two_England
+#EXTINF:-1 tvg-id="BBC Two HD" tvg-name="BBC Two HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC Two HD
+http://127.0.0.1/dummy/BBC_Two_HD
+#EXTINF:-1 tvg-id="BBC Two Northern Ireland" tvg-name="BBC Two Northern Ireland" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC Two Northern Ireland
+http://127.0.0.1/dummy/BBC_Two_Northern_Ireland
+#EXTINF:-1 tvg-id="BBC Two Northern Ireland HD" tvg-name="BBC Two Northern Ireland HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC Two Northern Ireland HD
+http://127.0.0.1/dummy/BBC_Two_Northern_Ireland_HD
+#EXTINF:-1 tvg-id="BBC Two Wales" tvg-name="BBC Two Wales" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC Two Wales
+http://127.0.0.1/dummy/BBC_Two_Wales
+#EXTINF:-1 tvg-id="BBC Two Wales HD" tvg-name="BBC Two Wales HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC Two Wales HD
+http://127.0.0.1/dummy/BBC_Two_Wales_HD
+#EXTINF:-1 tvg-id="Best Direct" tvg-name="Best Direct" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Best Direct
+http://127.0.0.1/dummy/Best_Direct
+#EXTINF:-1 tvg-id="Best Xmas Music" tvg-name="Best Xmas Music" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Music",Best Xmas Music
+http://127.0.0.1/dummy/Best_Xmas_Music
+#EXTINF:-1 tvg-id="Blaze" tvg-name="Blaze" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Blaze
+http://127.0.0.1/dummy/Blaze
+#EXTINF:-1 tvg-id="Blaze (Freeview)" tvg-name="Blaze (Freeview)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Blaze (Freeview)
+http://127.0.0.1/dummy/Blaze_(Freeview)
+#EXTINF:-1 tvg-id="BLAZE +1 (Freeview)" tvg-name="BLAZE +1 (Freeview)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BLAZE +1 (Freeview)
+http://127.0.0.1/dummy/BLAZE_plus1_(Freeview)
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Bloomberg
+http://127.0.0.1/dummy/Bloomberg
+#EXTINF:-1 tvg-id="Bloomberg HD" tvg-name="Bloomberg HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Bloomberg HD
+http://127.0.0.1/dummy/Bloomberg_HD
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Kids",Boomerang
+http://127.0.0.1/dummy/Boomerang
+#EXTINF:-1 tvg-id="Boomerang +1" tvg-name="Boomerang +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Kids",Boomerang +1
+http://127.0.0.1/dummy/Boomerang_plus1
+#EXTINF:-1 tvg-id="Boomerang HD" tvg-name="Boomerang HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Kids",Boomerang HD
+http://127.0.0.1/dummy/Boomerang_HD
+#EXTINF:-1 tvg-id="Box Hits" tvg-name="Box Hits" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Box Hits
+http://127.0.0.1/dummy/Box_Hits
+#EXTINF:-1 tvg-id="British Muslim" tvg-name="British Muslim" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",British Muslim
+http://127.0.0.1/dummy/British_Muslim
+#EXTINF:-1 tvg-id="BT Sport 1" tvg-name="BT Sport 1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",BT Sport 1
+http://127.0.0.1/dummy/BT_Sport_1
+#EXTINF:-1 tvg-id="BT Sport 1 HD" tvg-name="BT Sport 1 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",BT Sport 1 HD
+http://127.0.0.1/dummy/BT_Sport_1_HD
+#EXTINF:-1 tvg-id="BT Sport 2" tvg-name="BT Sport 2" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",BT Sport 2
+http://127.0.0.1/dummy/BT_Sport_2
+#EXTINF:-1 tvg-id="BT Sport 2 HD" tvg-name="BT Sport 2 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",BT Sport 2 HD
+http://127.0.0.1/dummy/BT_Sport_2_HD
+#EXTINF:-1 tvg-id="BT Sport 3" tvg-name="BT Sport 3" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",BT Sport 3
+http://127.0.0.1/dummy/BT_Sport_3
+#EXTINF:-1 tvg-id="BT Sport 3 HD" tvg-name="BT Sport 3 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",BT Sport 3 HD
+http://127.0.0.1/dummy/BT_Sport_3_HD
+#EXTINF:-1 tvg-id="BT Sport 4" tvg-name="BT Sport 4" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",BT Sport 4
+http://127.0.0.1/dummy/BT_Sport_4
+#EXTINF:-1 tvg-id="BT Sport 4 HD" tvg-name="BT Sport 4 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",BT Sport 4 HD
+http://127.0.0.1/dummy/BT_Sport_4_HD
+#EXTINF:-1 tvg-id="BT Sport//ESPN" tvg-name="BT Sport//ESPN" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",BT Sport//ESPN
+http://127.0.0.1/dummy/BT_Sport__ESPN
+#EXTINF:-1 tvg-id="BTSBoxOff2HD" tvg-name="BTSBoxOff2HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BTSBoxOff2HD
+http://127.0.0.1/dummy/BTSBoxOff2HD
+#EXTINF:-1 tvg-id="BTSBoxOffWWE" tvg-name="BTSBoxOffWWE" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BTSBoxOffWWE
+http://127.0.0.1/dummy/BTSBoxOffWWE
+#EXTINF:-1 tvg-id="BTSpt//ESPNHD" tvg-name="BTSpt//ESPNHD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BTSpt//ESPNHD
+http://127.0.0.1/dummy/BTSpt__ESPNHD
+#EXTINF:-1 tvg-id="BTSptBoxOffHD" tvg-name="BTSptBoxOffHD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BTSptBoxOffHD
+http://127.0.0.1/dummy/BTSptBoxOffHD
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Kids",Cartoon Network
+http://127.0.0.1/dummy/Cartoon_Network
+#EXTINF:-1 tvg-id="Cartoon Network +1" tvg-name="Cartoon Network +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Kids",Cartoon Network +1
+http://127.0.0.1/dummy/Cartoon_Network_plus1
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Kids",Cartoon Network HD
+http://127.0.0.1/dummy/Cartoon_Network_HD
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Kids",Cartoonito
+http://127.0.0.1/dummy/Cartoonito
+#EXTINF:-1 tvg-id="CBBC" tvg-name="CBBC" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Kids",CBBC
+http://127.0.0.1/dummy/CBBC
+#EXTINF:-1 tvg-id="CBBC HD" tvg-name="CBBC HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Kids",CBBC HD
+http://127.0.0.1/dummy/CBBC_HD
+#EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Kids",CBeebies
+http://127.0.0.1/dummy/CBeebies
+#EXTINF:-1 tvg-id="CBeebies HD" tvg-name="CBeebies HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Kids",CBeebies HD
+http://127.0.0.1/dummy/CBeebies_HD
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",CGTN
+http://127.0.0.1/dummy/CGTN
+#EXTINF:-1 tvg-id="CGTN HD" tvg-name="CGTN HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",CGTN HD
+http://127.0.0.1/dummy/CGTN_HD
+#EXTINF:-1 tvg-id="Challenge" tvg-name="Challenge" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Challenge
+http://127.0.0.1/dummy/Challenge
+#EXTINF:-1 tvg-id="Channel 4" tvg-name="Channel 4" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Channel 4
+http://127.0.0.1/dummy/Channel_4
+#EXTINF:-1 tvg-id="Channel 4 +1" tvg-name="Channel 4 +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Channel 4 +1
+http://127.0.0.1/dummy/Channel_4_plus1
+#EXTINF:-1 tvg-id="Channel 4 HD" tvg-name="Channel 4 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Channel 4 HD
+http://127.0.0.1/dummy/Channel_4_HD
+#EXTINF:-1 tvg-id="Channel 44" tvg-name="Channel 44" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Channel 44
+http://127.0.0.1/dummy/Channel_44
+#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Channel 5
+http://127.0.0.1/dummy/Channel_5
+#EXTINF:-1 tvg-id="Channel 5 +1" tvg-name="Channel 5 +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Channel 5 +1
+http://127.0.0.1/dummy/Channel_5_plus1
+#EXTINF:-1 tvg-id="Channel 5 HD" tvg-name="Channel 5 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Channel 5 HD
+http://127.0.0.1/dummy/Channel_5_HD
+#EXTINF:-1 tvg-id="Channel 7" tvg-name="Channel 7" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Channel 7
+http://127.0.0.1/dummy/Channel_7
+#EXTINF:-1 tvg-id="Channels 24" tvg-name="Channels 24" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Channels 24
+http://127.0.0.1/dummy/Channels_24
+#EXTINF:-1 tvg-id="Christmas 24" tvg-name="Christmas 24" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Christmas 24
+http://127.0.0.1/dummy/Christmas_24
+#EXTINF:-1 tvg-id="Christmas 24+" tvg-name="Christmas 24+" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Christmas 24+
+http://127.0.0.1/dummy/Christmas_24plus
+#EXTINF:-1 tvg-id="CHSTV" tvg-name="CHSTV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",CHSTV
+http://127.0.0.1/dummy/CHSTV
+#EXTINF:-1 tvg-id="Clubland TV" tvg-name="Clubland TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Music",Clubland TV
+http://127.0.0.1/dummy/Clubland_TV
+#EXTINF:-1 tvg-id="CNBC Europe" tvg-name="CNBC Europe" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="News",CNBC Europe
+http://127.0.0.1/dummy/CNBC_Europe
+#EXTINF:-1 tvg-id="CNBC UK" tvg-name="CNBC UK" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="News",CNBC UK
+http://127.0.0.1/dummy/CNBC_UK
+#EXTINF:-1 tvg-id="CNBC UK HD" tvg-name="CNBC UK HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="News",CNBC UK HD
+http://127.0.0.1/dummy/CNBC_UK_HD
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="News",CNN
+http://127.0.0.1/dummy/CNN
+#EXTINF:-1 tvg-id="CNN HD" tvg-name="CNN HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="News",CNN HD
+http://127.0.0.1/dummy/CNN_HD
+#EXTINF:-1 tvg-id="Colors" tvg-name="Colors" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="International",Colors
+http://127.0.0.1/dummy/Colors
+#EXTINF:-1 tvg-id="Colors Cineplex" tvg-name="Colors Cineplex" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="International",Colors Cineplex
+http://127.0.0.1/dummy/Colors_Cineplex
+#EXTINF:-1 tvg-id="Colors Gujrati" tvg-name="Colors Gujrati" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="International",Colors Gujrati
+http://127.0.0.1/dummy/Colors_Gujrati
+#EXTINF:-1 tvg-id="Colors HD" tvg-name="Colors HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="International",Colors HD
+http://127.0.0.1/dummy/Colors_HD
+#EXTINF:-1 tvg-id="Colors Rishtey" tvg-name="Colors Rishtey" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="International",Colors Rishtey
+http://127.0.0.1/dummy/Colors_Rishtey
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Comedy Central
+http://127.0.0.1/dummy/Comedy_Central
+#EXTINF:-1 tvg-id="Comedy Central +1" tvg-name="Comedy Central +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Comedy Central +1
+http://127.0.0.1/dummy/Comedy_Central_plus1
+#EXTINF:-1 tvg-id="Comedy Central Extra" tvg-name="Comedy Central Extra" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Comedy Central Extra
+http://127.0.0.1/dummy/Comedy_Central_Extra
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Comedy Central HD
+http://127.0.0.1/dummy/Comedy_Central_HD
+#EXTINF:-1 tvg-id="Court TV" tvg-name="Court TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Court TV
+http://127.0.0.1/dummy/Court_TV
+#EXTINF:-1 tvg-id="Craft Extra" tvg-name="Craft Extra" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Craft Extra
+http://127.0.0.1/dummy/Craft_Extra
+#EXTINF:-1 tvg-id="Create & Craft" tvg-name="Create & Craft" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Create & Craft
+http://127.0.0.1/dummy/Create_&_Craft
+#EXTINF:-1 tvg-id="Create & Craft HD" tvg-name="Create & Craft HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Create & Craft HD
+http://127.0.0.1/dummy/Create_&_Craft_HD
+#EXTINF:-1 tvg-id="Crime + Investigation" tvg-name="Crime + Investigation" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Crime + Investigation
+http://127.0.0.1/dummy/Crime_plus_Investigation
+#EXTINF:-1 tvg-id="Crime + Investigation +1" tvg-name="Crime + Investigation +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Crime + Investigation +1
+http://127.0.0.1/dummy/Crime_plus_Investigation_plus1
+#EXTINF:-1 tvg-id="Crime + Investigation HD" tvg-name="Crime + Investigation HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Crime + Investigation HD
+http://127.0.0.1/dummy/Crime_plus_Investigation_HD
+#EXTINF:-1 tvg-id="Cruise1st.tv" tvg-name="Cruise1st.tv" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Cruise1st.tv
+http://127.0.0.1/dummy/Cruise1st.tv
+#EXTINF:-1 tvg-id="Cula4 HD" tvg-name="Cula4 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Cula4 HD
+http://127.0.0.1/dummy/Cula4_HD
+#EXTINF:-1 tvg-id="Dave" tvg-name="Dave" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Dave
+http://127.0.0.1/dummy/Dave
+#EXTINF:-1 tvg-id="Dave HD" tvg-name="Dave HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Dave HD
+http://127.0.0.1/dummy/Dave_HD
+#EXTINF:-1 tvg-id="Dave ja vu" tvg-name="Dave ja vu" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Dave ja vu
+http://127.0.0.1/dummy/Dave_ja_vu
+#EXTINF:-1 tvg-id="DAYSTAR HD" tvg-name="DAYSTAR HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Religion",DAYSTAR HD
+http://127.0.0.1/dummy/DAYSTAR_HD
+#EXTINF:-1 tvg-id="Deen TV" tvg-name="Deen TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Deen TV
+http://127.0.0.1/dummy/Deen_TV
+#EXTINF:-1 tvg-id="Direct Store TV" tvg-name="Direct Store TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Direct Store TV
+http://127.0.0.1/dummy/Direct_Store_TV
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Discovery Channel
+http://127.0.0.1/dummy/Discovery_Channel
+#EXTINF:-1 tvg-id="Discovery Channel +1" tvg-name="Discovery Channel +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Discovery Channel +1
+http://127.0.0.1/dummy/Discovery_Channel_plus1
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Discovery Channel HD
+http://127.0.0.1/dummy/Discovery_Channel_HD
+#EXTINF:-1 tvg-id="Discovery History" tvg-name="Discovery History" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Discovery History
+http://127.0.0.1/dummy/Discovery_History
+#EXTINF:-1 tvg-id="Discovery History +1" tvg-name="Discovery History +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Discovery History +1
+http://127.0.0.1/dummy/Discovery_History_plus1
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Discovery Science
+http://127.0.0.1/dummy/Discovery_Science
+#EXTINF:-1 tvg-id="Discovery Science +1" tvg-name="Discovery Science +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Discovery Science +1
+http://127.0.0.1/dummy/Discovery_Science_plus1
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Discovery Turbo
+http://127.0.0.1/dummy/Discovery_Turbo
+#EXTINF:-1 tvg-id="Discovery Turbo +1" tvg-name="Discovery Turbo +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Discovery Turbo +1
+http://127.0.0.1/dummy/Discovery_Turbo_plus1
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",DMAX
+http://127.0.0.1/dummy/DMAX
+#EXTINF:-1 tvg-id="DMAX +1" tvg-name="DMAX +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",DMAX +1
+http://127.0.0.1/dummy/DMAX_plus1
+#EXTINF:-1 tvg-id="Drama" tvg-name="Drama" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Drama
+http://127.0.0.1/dummy/Drama
+#EXTINF:-1 tvg-id="Drama +1" tvg-name="Drama +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Drama +1
+http://127.0.0.1/dummy/Drama_plus1
+#EXTINF:-1 tvg-id="Drama HD" tvg-name="Drama HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Drama HD
+http://127.0.0.1/dummy/Drama_HD
+#EXTINF:-1 tvg-id="Dunamis TV" tvg-name="Dunamis TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Dunamis TV
+http://127.0.0.1/dummy/Dunamis_TV
+#EXTINF:-1 tvg-id="E4" tvg-name="E4" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",E4
+http://127.0.0.1/dummy/E4
+#EXTINF:-1 tvg-id="E4 +1" tvg-name="E4 +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",E4 +1
+http://127.0.0.1/dummy/E4_plus1
+#EXTINF:-1 tvg-id="E4 Extra" tvg-name="E4 Extra" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",E4 Extra
+http://127.0.0.1/dummy/E4_Extra
+#EXTINF:-1 tvg-id="E4 HD" tvg-name="E4 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",E4 HD
+http://127.0.0.1/dummy/E4_HD
+#EXTINF:-1 tvg-id="E4+1" tvg-name="E4+1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",E4+1
+http://127.0.0.1/dummy/E4plus1
+#EXTINF:-1 tvg-id="Earthx TV" tvg-name="Earthx TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Earthx TV
+http://127.0.0.1/dummy/Earthx_TV
+#EXTINF:-1 tvg-id="Earthx TV HD" tvg-name="Earthx TV HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Earthx TV HD
+http://127.0.0.1/dummy/Earthx_TV_HD
+#EXTINF:-1 tvg-id="Eden" tvg-name="Eden" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Eden
+http://127.0.0.1/dummy/Eden
+#EXTINF:-1 tvg-id="Eden +1" tvg-name="Eden +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Eden +1
+http://127.0.0.1/dummy/Eden_plus1
+#EXTINF:-1 tvg-id="Eden HD" tvg-name="Eden HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Eden HD
+http://127.0.0.1/dummy/Eden_HD
+#EXTINF:-1 tvg-id="Eman Channel" tvg-name="Eman Channel" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Eman Channel
+http://127.0.0.1/dummy/Eman_Channel
+#EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="News",Euronews
+http://127.0.0.1/dummy/Euronews
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Eurosport 1
+http://127.0.0.1/dummy/Eurosport_1
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="Eurosport 1 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Eurosport 1 HD
+http://127.0.0.1/dummy/Eurosport_1_HD
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Eurosport 2
+http://127.0.0.1/dummy/Eurosport_2
+#EXTINF:-1 tvg-id="Eurosport 2 HD" tvg-name="Eurosport 2 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Eurosport 2 HD
+http://127.0.0.1/dummy/Eurosport_2_HD
+#EXTINF:-1 tvg-id="EWTN Catholic" tvg-name="EWTN Catholic" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Religion",EWTN Catholic
+http://127.0.0.1/dummy/EWTN_Catholic
+#EXTINF:-1 tvg-id="Faith UK" tvg-name="Faith UK" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Religion",Faith UK
+http://127.0.0.1/dummy/Faith_UK
+#EXTINF:-1 tvg-id="Faith World TV" tvg-name="Faith World TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Religion",Faith World TV
+http://127.0.0.1/dummy/Faith_World_TV
+#EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Fashion TV
+http://127.0.0.1/dummy/Fashion_TV
+#EXTINF:-1 tvg-id="Film4" tvg-name="Film4" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Film4
+http://127.0.0.1/dummy/Film4
+#EXTINF:-1 tvg-id="Film4 +1" tvg-name="Film4 +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Film4 +1
+http://127.0.0.1/dummy/Film4_plus1
+#EXTINF:-1 tvg-id="Film4 HD" tvg-name="Film4 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Film4 HD
+http://127.0.0.1/dummy/Film4_HD
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Food Network
+http://127.0.0.1/dummy/Food_Network
+#EXTINF:-1 tvg-id="Food Network+1" tvg-name="Food Network+1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Food Network+1
+http://127.0.0.1/dummy/Food_Networkplus1
+#EXTINF:-1 tvg-id="Foodxp" tvg-name="Foodxp" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Foodxp
+http://127.0.0.1/dummy/Foodxp
+#EXTINF:-1 tvg-id="France 24 English" tvg-name="France 24 English" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",France 24 English
+http://127.0.0.1/dummy/France_24_English
+#EXTINF:-1 tvg-id="France 24 English HD" tvg-name="France 24 English HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",France 24 English HD
+http://127.0.0.1/dummy/France_24_English_HD
+#EXTINF:-1 tvg-id="FreeSports HD" tvg-name="FreeSports HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",FreeSports HD
+http://127.0.0.1/dummy/FreeSports_HD
+#EXTINF:-1 tvg-id="GB News" tvg-name="GB News" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="News",GB News
+http://127.0.0.1/dummy/GB_News
+#EXTINF:-1 tvg-id="GB News HD" tvg-name="GB News HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="News",GB News HD
+http://127.0.0.1/dummy/GB_News_HD
+#EXTINF:-1 tvg-id="Gems TV" tvg-name="Gems TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Gems TV
+http://127.0.0.1/dummy/Gems_TV
+#EXTINF:-1 tvg-id="GEO News" tvg-name="GEO News" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="News",GEO News
+http://127.0.0.1/dummy/GEO_News
+#EXTINF:-1 tvg-id="GEO TV" tvg-name="GEO TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="International",GEO TV
+http://127.0.0.1/dummy/GEO_TV
+#EXTINF:-1 tvg-id="GOD Channel" tvg-name="GOD Channel" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",GOD Channel
+http://127.0.0.1/dummy/GOD_Channel
+#EXTINF:-1 tvg-id="GOLD" tvg-name="GOLD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",GOLD
+http://127.0.0.1/dummy/GOLD
+#EXTINF:-1 tvg-id="GOLD +1" tvg-name="GOLD +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",GOLD +1
+http://127.0.0.1/dummy/GOLD_plus1
+#EXTINF:-1 tvg-id="GOLD HD" tvg-name="GOLD HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",GOLD HD
+http://127.0.0.1/dummy/GOLD_HD
+#EXTINF:-1 tvg-id="GREAT! action" tvg-name="GREAT! action" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",GREAT! action
+http://127.0.0.1/dummy/GREAT!_action
+#EXTINF:-1 tvg-id="GREAT! action +1" tvg-name="GREAT! action +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",GREAT! action +1
+http://127.0.0.1/dummy/GREAT!_action_plus1
+#EXTINF:-1 tvg-id="GREAT! movies" tvg-name="GREAT! movies" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",GREAT! movies
+http://127.0.0.1/dummy/GREAT!_movies
+#EXTINF:-1 tvg-id="GREAT! movies +1" tvg-name="GREAT! movies +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",GREAT! movies +1
+http://127.0.0.1/dummy/GREAT!_movies_plus1
+#EXTINF:-1 tvg-id="GREAT! movies christmas" tvg-name="GREAT! movies christmas" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",GREAT! movies christmas
+http://127.0.0.1/dummy/GREAT!_movies_christmas
+#EXTINF:-1 tvg-id="GREAT! movies christmas +1" tvg-name="GREAT! movies christmas +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",GREAT! movies christmas +1
+http://127.0.0.1/dummy/GREAT!_movies_christmas_plus1
+#EXTINF:-1 tvg-id="GREAT! romance" tvg-name="GREAT! romance" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",GREAT! romance
+http://127.0.0.1/dummy/GREAT!_romance
+#EXTINF:-1 tvg-id="GREAT! romance +1" tvg-name="GREAT! romance +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",GREAT! romance +1
+http://127.0.0.1/dummy/GREAT!_romance_plus1
+#EXTINF:-1 tvg-id="GREAT! tv" tvg-name="GREAT! tv" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",GREAT! tv
+http://127.0.0.1/dummy/GREAT!_tv
+#EXTINF:-1 tvg-id="GREAT! tv +1" tvg-name="GREAT! tv +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",GREAT! tv +1
+http://127.0.0.1/dummy/GREAT!_tv_plus1
+#EXTINF:-1 tvg-id="Halloween HD" tvg-name="Halloween HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Halloween HD
+http://127.0.0.1/dummy/Halloween_HD
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",HGTV
+http://127.0.0.1/dummy/HGTV
+#EXTINF:-1 tvg-id="HGTV+1" tvg-name="HGTV+1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",HGTV+1
+http://127.0.0.1/dummy/HGTVplus1
+#EXTINF:-1 tvg-id="High Street TV 1" tvg-name="High Street TV 1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",High Street TV 1
+http://127.0.0.1/dummy/High_Street_TV_1
+#EXTINF:-1 tvg-id="High Street TV 2" tvg-name="High Street TV 2" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",High Street TV 2
+http://127.0.0.1/dummy/High_Street_TV_2
+#EXTINF:-1 tvg-id="High Street TV 3" tvg-name="High Street TV 3" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",High Street TV 3
+http://127.0.0.1/dummy/High_Street_TV_3
+#EXTINF:-1 tvg-id="High Street TV 4" tvg-name="High Street TV 4" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",High Street TV 4
+http://127.0.0.1/dummy/High_Street_TV_4
+#EXTINF:-1 tvg-id="High Street TV 5" tvg-name="High Street TV 5" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",High Street TV 5
+http://127.0.0.1/dummy/High_Street_TV_5
+#EXTINF:-1 tvg-id="HobbyMaker" tvg-name="HobbyMaker" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",HobbyMaker
+http://127.0.0.1/dummy/HobbyMaker
+#EXTINF:-1 tvg-id="Hochanda" tvg-name="Hochanda" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Hochanda
+http://127.0.0.1/dummy/Hochanda
+#EXTINF:-1 tvg-id="Home & Health" tvg-name="Home & Health" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Home & Health
+http://127.0.0.1/dummy/Home_&_Health
+#EXTINF:-1 tvg-id="HomeHealth+1" tvg-name="HomeHealth+1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",HomeHealth+1
+http://127.0.0.1/dummy/HomeHealthplus1
+#EXTINF:-1 tvg-id="horror channel" tvg-name="horror channel" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",horror channel
+http://127.0.0.1/dummy/horror_channel
+#EXTINF:-1 tvg-id="horror ch+1" tvg-name="horror ch+1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",horror ch+1
+http://127.0.0.1/dummy/horror_chplus1
+#EXTINF:-1 tvg-id="HorrorXtra" tvg-name="HorrorXtra" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",HorrorXtra
+http://127.0.0.1/dummy/HorrorXtra
+#EXTINF:-1 tvg-id="HorrorXtra+1" tvg-name="HorrorXtra+1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",HorrorXtra+1
+http://127.0.0.1/dummy/HorrorXtraplus1
+#EXTINF:-1 tvg-id="HUM Europe" tvg-name="HUM Europe" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",HUM Europe
+http://127.0.0.1/dummy/HUM_Europe
+#EXTINF:-1 tvg-id="HUM Masala" tvg-name="HUM Masala" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",HUM Masala
+http://127.0.0.1/dummy/HUM_Masala
+#EXTINF:-1 tvg-id="HUM News" tvg-name="HUM News" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="News",HUM News
+http://127.0.0.1/dummy/HUM_News
+#EXTINF:-1 tvg-id="Ideal World" tvg-name="Ideal World" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Ideal World
+http://127.0.0.1/dummy/Ideal_World
+#EXTINF:-1 tvg-id="Ideal World HD" tvg-name="Ideal World HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Ideal World HD
+http://127.0.0.1/dummy/Ideal_World_HD
+#EXTINF:-1 tvg-id="Inspiration TV" tvg-name="Inspiration TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Inspiration TV
+http://127.0.0.1/dummy/Inspiration_TV
+#EXTINF:-1 tvg-id="Investigation Discovery" tvg-name="Investigation Discovery" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Investigation Discovery
+http://127.0.0.1/dummy/Investigation_Discovery
+#EXTINF:-1 tvg-id="Investigation Discovery +1" tvg-name="Investigation Discovery +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Investigation Discovery +1
+http://127.0.0.1/dummy/Investigation_Discovery_plus1
+#EXTINF:-1 tvg-id="iON TV" tvg-name="iON TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",iON TV
+http://127.0.0.1/dummy/iON_TV
+#EXTINF:-1 tvg-id="IQRA BANGLA" tvg-name="IQRA BANGLA" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",IQRA BANGLA
+http://127.0.0.1/dummy/IQRA_BANGLA
+#EXTINF:-1 tvg-id="IQRA Bangla" tvg-name="IQRA Bangla" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",IQRA Bangla
+http://127.0.0.1/dummy/IQRA_Bangla
+#EXTINF:-1 tvg-id="IQRA TV" tvg-name="IQRA TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",IQRA TV
+http://127.0.0.1/dummy/IQRA_TV
+#EXTINF:-1 tvg-id="Islam Ch Urdu" tvg-name="Islam Ch Urdu" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Religion",Islam Ch Urdu
+http://127.0.0.1/dummy/Islam_Ch_Urdu
+#EXTINF:-1 tvg-id="Islam Channel" tvg-name="Islam Channel" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Religion",Islam Channel
+http://127.0.0.1/dummy/Islam_Channel
+#EXTINF:-1 tvg-id="Islam TV" tvg-name="Islam TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Religion",Islam TV
+http://127.0.0.1/dummy/Islam_TV
+#EXTINF:-1 tvg-id="ITV STV HD" tvg-name="ITV STV HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV STV HD
+http://127.0.0.1/dummy/ITV_STV_HD
+#EXTINF:-1 tvg-id="ITV STV HD (BK)" tvg-name="ITV STV HD (BK)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV STV HD (BK)
+http://127.0.0.1/dummy/ITV_STV_HD_(BK)
+#EXTINF:-1 tvg-id="ITV STV HD (BK2)" tvg-name="ITV STV HD (BK2)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV STV HD (BK2)
+http://127.0.0.1/dummy/ITV_STV_HD_(BK2)
+#EXTINF:-1 tvg-id="ITV1 Anglia" tvg-name="ITV1 Anglia" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 Anglia
+http://127.0.0.1/dummy/ITV1_Anglia
+#EXTINF:-1 tvg-id="ITV1 Anglia +1" tvg-name="ITV1 Anglia +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 Anglia +1
+http://127.0.0.1/dummy/ITV1_Anglia_plus1
+#EXTINF:-1 tvg-id="ITV1 Anglia HD" tvg-name="ITV1 Anglia HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 Anglia HD
+http://127.0.0.1/dummy/ITV1_Anglia_HD
+#EXTINF:-1 tvg-id="ITV1 Border England" tvg-name="ITV1 Border England" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 Border England
+http://127.0.0.1/dummy/ITV1_Border_England
+#EXTINF:-1 tvg-id="ITV1 Border HD" tvg-name="ITV1 Border HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 Border HD
+http://127.0.0.1/dummy/ITV1_Border_HD
+#EXTINF:-1 tvg-id="ITV1 Border Scotland" tvg-name="ITV1 Border Scotland" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 Border Scotland
+http://127.0.0.1/dummy/ITV1_Border_Scotland
+#EXTINF:-1 tvg-id="ITV1 Border Scotland HD" tvg-name="ITV1 Border Scotland HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 Border Scotland HD
+http://127.0.0.1/dummy/ITV1_Border_Scotland_HD
+#EXTINF:-1 tvg-id="ITV1 Central" tvg-name="ITV1 Central" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 Central
+http://127.0.0.1/dummy/ITV1_Central
+#EXTINF:-1 tvg-id="ITV1 Central +1" tvg-name="ITV1 Central +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 Central +1
+http://127.0.0.1/dummy/ITV1_Central_plus1
+#EXTINF:-1 tvg-id="ITV1 Central HD" tvg-name="ITV1 Central HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 Central HD
+http://127.0.0.1/dummy/ITV1_Central_HD
+#EXTINF:-1 tvg-id="ITV1 Channel Television" tvg-name="ITV1 Channel Television" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 Channel Television
+http://127.0.0.1/dummy/ITV1_Channel_Television
+#EXTINF:-1 tvg-id="ITV1 Channel Television HD" tvg-name="ITV1 Channel Television HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 Channel Television HD
+http://127.0.0.1/dummy/ITV1_Channel_Television_HD
+#EXTINF:-1 tvg-id="ITV1 Granada" tvg-name="ITV1 Granada" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 Granada
+http://127.0.0.1/dummy/ITV1_Granada
+#EXTINF:-1 tvg-id="ITV1 Granada +1" tvg-name="ITV1 Granada +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 Granada +1
+http://127.0.0.1/dummy/ITV1_Granada_plus1
+#EXTINF:-1 tvg-id="ITV1 Granada HD" tvg-name="ITV1 Granada HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 Granada HD
+http://127.0.0.1/dummy/ITV1_Granada_HD
+#EXTINF:-1 tvg-id="ITV1 London" tvg-name="ITV1 London" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 London
+http://127.0.0.1/dummy/ITV1_London
+#EXTINF:-1 tvg-id="ITV1 London +1" tvg-name="ITV1 London +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 London +1
+http://127.0.0.1/dummy/ITV1_London_plus1
+#EXTINF:-1 tvg-id="ITV1 London HD" tvg-name="ITV1 London HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 London HD
+http://127.0.0.1/dummy/ITV1_London_HD
+#EXTINF:-1 tvg-id="ITV1 Meridian" tvg-name="ITV1 Meridian" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 Meridian
+http://127.0.0.1/dummy/ITV1_Meridian
+#EXTINF:-1 tvg-id="ITV1 Meridian +1" tvg-name="ITV1 Meridian +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 Meridian +1
+http://127.0.0.1/dummy/ITV1_Meridian_plus1
+#EXTINF:-1 tvg-id="ITV1 Meridian HD" tvg-name="ITV1 Meridian HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 Meridian HD
+http://127.0.0.1/dummy/ITV1_Meridian_HD
+#EXTINF:-1 tvg-id="ITV1 Tyne Tees" tvg-name="ITV1 Tyne Tees" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 Tyne Tees
+http://127.0.0.1/dummy/ITV1_Tyne_Tees
+#EXTINF:-1 tvg-id="ITV1 Tyne Tees +1" tvg-name="ITV1 Tyne Tees +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 Tyne Tees +1
+http://127.0.0.1/dummy/ITV1_Tyne_Tees_plus1
+#EXTINF:-1 tvg-id="ITV1 Tyne Tees HD" tvg-name="ITV1 Tyne Tees HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 Tyne Tees HD
+http://127.0.0.1/dummy/ITV1_Tyne_Tees_HD
+#EXTINF:-1 tvg-id="ITV1 Wales" tvg-name="ITV1 Wales" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 Wales
+http://127.0.0.1/dummy/ITV1_Wales
+#EXTINF:-1 tvg-id="ITV1 Wales +1" tvg-name="ITV1 Wales +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 Wales +1
+http://127.0.0.1/dummy/ITV1_Wales_plus1
+#EXTINF:-1 tvg-id="ITV1 Wales HD" tvg-name="ITV1 Wales HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 Wales HD
+http://127.0.0.1/dummy/ITV1_Wales_HD
+#EXTINF:-1 tvg-id="ITV1 West" tvg-name="ITV1 West" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 West
+http://127.0.0.1/dummy/ITV1_West
+#EXTINF:-1 tvg-id="ITV1 West +1" tvg-name="ITV1 West +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 West +1
+http://127.0.0.1/dummy/ITV1_West_plus1
+#EXTINF:-1 tvg-id="ITV1 West Country" tvg-name="ITV1 West Country" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 West Country
+http://127.0.0.1/dummy/ITV1_West_Country
+#EXTINF:-1 tvg-id="ITV1 West Country +1" tvg-name="ITV1 West Country +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 West Country +1
+http://127.0.0.1/dummy/ITV1_West_Country_plus1
+#EXTINF:-1 tvg-id="ITV1 West Country HD" tvg-name="ITV1 West Country HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 West Country HD
+http://127.0.0.1/dummy/ITV1_West_Country_HD
+#EXTINF:-1 tvg-id="ITV1 West HD" tvg-name="ITV1 West HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 West HD
+http://127.0.0.1/dummy/ITV1_West_HD
+#EXTINF:-1 tvg-id="ITV1 Yorkshire" tvg-name="ITV1 Yorkshire" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 Yorkshire
+http://127.0.0.1/dummy/ITV1_Yorkshire
+#EXTINF:-1 tvg-id="ITV1 Yorkshire +1" tvg-name="ITV1 Yorkshire +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 Yorkshire +1
+http://127.0.0.1/dummy/ITV1_Yorkshire_plus1
+#EXTINF:-1 tvg-id="ITV1 Yorkshire HD" tvg-name="ITV1 Yorkshire HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV1 Yorkshire HD
+http://127.0.0.1/dummy/ITV1_Yorkshire_HD
+#EXTINF:-1 tvg-id="ITV2" tvg-name="ITV2" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV2
+http://127.0.0.1/dummy/ITV2
+#EXTINF:-1 tvg-id="ITV2 +1" tvg-name="ITV2 +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV2 +1
+http://127.0.0.1/dummy/ITV2_plus1
+#EXTINF:-1 tvg-id="ITV2 HD" tvg-name="ITV2 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV2 HD
+http://127.0.0.1/dummy/ITV2_HD
+#EXTINF:-1 tvg-id="ITV3" tvg-name="ITV3" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV3
+http://127.0.0.1/dummy/ITV3
+#EXTINF:-1 tvg-id="ITV3 +1" tvg-name="ITV3 +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV3 +1
+http://127.0.0.1/dummy/ITV3_plus1
+#EXTINF:-1 tvg-id="ITV3 +1 (Freeview)" tvg-name="ITV3 +1 (Freeview)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV3 +1 (Freeview)
+http://127.0.0.1/dummy/ITV3_plus1_(Freeview)
+#EXTINF:-1 tvg-id="ITV3 HD" tvg-name="ITV3 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV3 HD
+http://127.0.0.1/dummy/ITV3_HD
+#EXTINF:-1 tvg-id="ITV4" tvg-name="ITV4" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV4
+http://127.0.0.1/dummy/ITV4
+#EXTINF:-1 tvg-id="ITV4 +1" tvg-name="ITV4 +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV4 +1
+http://127.0.0.1/dummy/ITV4_plus1
+#EXTINF:-1 tvg-id="ITV4 HD" tvg-name="ITV4 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITV4 HD
+http://127.0.0.1/dummy/ITV4_HD
+#EXTINF:-1 tvg-id="ITVBe" tvg-name="ITVBe" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITVBe
+http://127.0.0.1/dummy/ITVBe
+#EXTINF:-1 tvg-id="ITVBe +1" tvg-name="ITVBe +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITVBe +1
+http://127.0.0.1/dummy/ITVBe_plus1
+#EXTINF:-1 tvg-id="ITVBe +1 (Freeview)" tvg-name="ITVBe +1 (Freeview)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITVBe +1 (Freeview)
+http://127.0.0.1/dummy/ITVBe_plus1_(Freeview)
+#EXTINF:-1 tvg-id="ITVBe HD" tvg-name="ITVBe HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",ITVBe HD
+http://127.0.0.1/dummy/ITVBe_HD
+#EXTINF:-1 tvg-id="JewelleryMaker" tvg-name="JewelleryMaker" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",JewelleryMaker
+http://127.0.0.1/dummy/JewelleryMaker
+#EXTINF:-1 tvg-id="JML Direct" tvg-name="JML Direct" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",JML Direct
+http://127.0.0.1/dummy/JML_Direct
+#EXTINF:-1 tvg-id="Kanshi TV" tvg-name="Kanshi TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Kanshi TV
+http://127.0.0.1/dummy/Kanshi_TV
+#EXTINF:-1 tvg-id="Kerrang! TV" tvg-name="Kerrang! TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Music",Kerrang! TV
+http://127.0.0.1/dummy/Kerrang!_TV
+#EXTINF:-1 tvg-id="KICC TV" tvg-name="KICC TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",KICC TV
+http://127.0.0.1/dummy/KICC_TV
+#EXTINF:-1 tvg-id="Kiss TV" tvg-name="Kiss TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Kiss TV
+http://127.0.0.1/dummy/Kiss_TV
+#EXTINF:-1 tvg-id="KTV" tvg-name="KTV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",KTV
+http://127.0.0.1/dummy/KTV
+#EXTINF:-1 tvg-id="Legend" tvg-name="Legend" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Legend
+http://127.0.0.1/dummy/Legend
+#EXTINF:-1 tvg-id="Legend Xtra" tvg-name="Legend Xtra" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Legend Xtra
+http://127.0.0.1/dummy/Legend_Xtra
+#EXTINF:-1 tvg-id="Legend Xtra +1" tvg-name="Legend Xtra +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Legend Xtra +1
+http://127.0.0.1/dummy/Legend_Xtra_plus1
+#EXTINF:-1 tvg-id="LFC TV" tvg-name="LFC TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",LFC TV
+http://127.0.0.1/dummy/LFC_TV
+#EXTINF:-1 tvg-id="LFC TV HD" tvg-name="LFC TV HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",LFC TV HD
+http://127.0.0.1/dummy/LFC_TV_HD
+#EXTINF:-1 tvg-id="London Live" tvg-name="London Live" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",London Live
+http://127.0.0.1/dummy/London_Live
+#EXTINF:-1 tvg-id="LoveWorld HD" tvg-name="LoveWorld HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",LoveWorld HD
+http://127.0.0.1/dummy/LoveWorld_HD
+#EXTINF:-1 tvg-id="Madani Chnl" tvg-name="Madani Chnl" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Madani Chnl
+http://127.0.0.1/dummy/Madani_Chnl
+#EXTINF:-1 tvg-id="Magic" tvg-name="Magic" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Magic
+http://127.0.0.1/dummy/Magic
+#EXTINF:-1 tvg-id="MATV National" tvg-name="MATV National" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",MATV National
+http://127.0.0.1/dummy/MATV_National
+#EXTINF:-1 tvg-id="More4" tvg-name="More4" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",More4
+http://127.0.0.1/dummy/More4
+#EXTINF:-1 tvg-id="More4 +1" tvg-name="More4 +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",More4 +1
+http://127.0.0.1/dummy/More4_plus1
+#EXTINF:-1 tvg-id="More4 HD" tvg-name="More4 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",More4 HD
+http://127.0.0.1/dummy/More4_HD
+#EXTINF:-1 tvg-id="Movies 24" tvg-name="Movies 24" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Movies 24
+http://127.0.0.1/dummy/Movies_24
+#EXTINF:-1 tvg-id="Movies 24+" tvg-name="Movies 24+" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Movies 24+
+http://127.0.0.1/dummy/Movies_24plus
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Music",MTV
+http://127.0.0.1/dummy/MTV
+#EXTINF:-1 tvg-id="MTV 80s" tvg-name="MTV 80s" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Music",MTV 80s
+http://127.0.0.1/dummy/MTV_80s
+#EXTINF:-1 tvg-id="MTV 90s" tvg-name="MTV 90s" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Music",MTV 90s
+http://127.0.0.1/dummy/MTV_90s
+#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Music",MTV HD
+http://127.0.0.1/dummy/MTV_HD
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Music",MTV Hits
+http://127.0.0.1/dummy/MTV_Hits
+#EXTINF:-1 tvg-id="MTV Ireland" tvg-name="MTV Ireland" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Music",MTV Ireland
+http://127.0.0.1/dummy/MTV_Ireland
+#EXTINF:-1 tvg-id="MTV Live HD" tvg-name="MTV Live HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Music",MTV Live HD
+http://127.0.0.1/dummy/MTV_Live_HD
+#EXTINF:-1 tvg-id="MTV Music" tvg-name="MTV Music" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Music",MTV Music
+http://127.0.0.1/dummy/MTV_Music
+#EXTINF:-1 tvg-id="MUTV" tvg-name="MUTV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",MUTV
+http://127.0.0.1/dummy/MUTV
+#EXTINF:-1 tvg-id="MUTV HD" tvg-name="MUTV HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",MUTV HD
+http://127.0.0.1/dummy/MUTV_HD
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-name="National Geographic Channel" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",National Geographic Channel
+http://127.0.0.1/dummy/National_Geographic_Channel
+#EXTINF:-1 tvg-id="National Geographic Channel +1" tvg-name="National Geographic Channel +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",National Geographic Channel +1
+http://127.0.0.1/dummy/National_Geographic_Channel_plus1
+#EXTINF:-1 tvg-id="National Geographic Channel HD" tvg-name="National Geographic Channel HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",National Geographic Channel HD
+http://127.0.0.1/dummy/National_Geographic_Channel_HD
+#EXTINF:-1 tvg-id="National Geographic WILD" tvg-name="National Geographic WILD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",National Geographic WILD
+http://127.0.0.1/dummy/National_Geographic_WILD
+#EXTINF:-1 tvg-id="National Geographic WILD HD" tvg-name="National Geographic WILD HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",National Geographic WILD HD
+http://127.0.0.1/dummy/National_Geographic_WILD_HD
+#EXTINF:-1 tvg-id="NBC News NOW" tvg-name="NBC News NOW" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="News",NBC News NOW
+http://127.0.0.1/dummy/NBC_News_NOW
+#EXTINF:-1 tvg-id="NBC News NOW HD" tvg-name="NBC News NOW HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="News",NBC News NOW HD
+http://127.0.0.1/dummy/NBC_News_NOW_HD
+#EXTINF:-1 tvg-id="NDTV 24x7" tvg-name="NDTV 24x7" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="News",NDTV 24x7
+http://127.0.0.1/dummy/NDTV_24x7
+#EXTINF:-1 tvg-id="New Vision" tvg-name="New Vision" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",New Vision
+http://127.0.0.1/dummy/New_Vision
+#EXTINF:-1 tvg-id="NHK World" tvg-name="NHK World" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",NHK World
+http://127.0.0.1/dummy/NHK_World
+#EXTINF:-1 tvg-id="NHK World HD" tvg-name="NHK World HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",NHK World HD
+http://127.0.0.1/dummy/NHK_World_HD
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr." tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Kids",Nick Jr.
+http://127.0.0.1/dummy/Nick_Jr.
+#EXTINF:-1 tvg-id="Nick Jr. +1" tvg-name="Nick Jr. +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Kids",Nick Jr. +1
+http://127.0.0.1/dummy/Nick_Jr._plus1
+#EXTINF:-1 tvg-id="Nick Jr. HD" tvg-name="Nick Jr. HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Kids",Nick Jr. HD
+http://127.0.0.1/dummy/Nick_Jr._HD
+#EXTINF:-1 tvg-id="Nick Jr. Too" tvg-name="Nick Jr. Too" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Kids",Nick Jr. Too
+http://127.0.0.1/dummy/Nick_Jr._Too
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Kids",Nickelodeon
+http://127.0.0.1/dummy/Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon +1" tvg-name="Nickelodeon +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Kids",Nickelodeon +1
+http://127.0.0.1/dummy/Nickelodeon_plus1
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Kids",Nickelodeon HD
+http://127.0.0.1/dummy/Nickelodeon_HD
+#EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nicktoons" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Kids",Nicktoons
+http://127.0.0.1/dummy/Nicktoons
+#EXTINF:-1 tvg-id="Noor TV" tvg-name="Noor TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Religion",Noor TV
+http://127.0.0.1/dummy/Noor_TV
+#EXTINF:-1 tvg-id="Notts TV" tvg-name="Notts TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Notts TV
+http://127.0.0.1/dummy/Notts_TV
+#EXTINF:-1 tvg-id="NOW 70s" tvg-name="NOW 70s" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Music",NOW 70s
+http://127.0.0.1/dummy/NOW_70s
+#EXTINF:-1 tvg-id="NOW 80s" tvg-name="NOW 80s" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Music",NOW 80s
+http://127.0.0.1/dummy/NOW_80s
+#EXTINF:-1 tvg-id="NOW Rock" tvg-name="NOW Rock" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",NOW Rock
+http://127.0.0.1/dummy/NOW_Rock
+#EXTINF:-1 tvg-id="NTD" tvg-name="NTD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",NTD
+http://127.0.0.1/dummy/NTD
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",NTV
+http://127.0.0.1/dummy/NTV
+#EXTINF:-1 tvg-id="Oireachtas TV" tvg-name="Oireachtas TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Oireachtas TV
+http://127.0.0.1/dummy/Oireachtas_TV
+#EXTINF:-1 tvg-id="PBS America" tvg-name="PBS America" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",PBS America
+http://127.0.0.1/dummy/PBS_America
+#EXTINF:-1 tvg-id="PBS America (Freeview)" tvg-name="PBS America (Freeview)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",PBS America (Freeview)
+http://127.0.0.1/dummy/PBS_America_(Freeview)
+#EXTINF:-1 tvg-id="PBS America +1" tvg-name="PBS America +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",PBS America +1
+http://127.0.0.1/dummy/PBS_America_plus1
+#EXTINF:-1 tvg-id="PCNE Chinese" tvg-name="PCNE Chinese" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",PCNE Chinese
+http://127.0.0.1/dummy/PCNE_Chinese
+#EXTINF:-1 tvg-id="PCNE Chinese HD" tvg-name="PCNE Chinese HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",PCNE Chinese HD
+http://127.0.0.1/dummy/PCNE_Chinese_HD
+#EXTINF:-1 tvg-id="Phoenix CNE Channel HD" tvg-name="Phoenix CNE Channel HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Phoenix CNE Channel HD
+http://127.0.0.1/dummy/Phoenix_CNE_Channel_HD
+#EXTINF:-1 tvg-id="Pitaara" tvg-name="Pitaara" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Pitaara
+http://127.0.0.1/dummy/Pitaara
+#EXTINF:-1 tvg-id="PoliticsPunjab" tvg-name="PoliticsPunjab" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",PoliticsPunjab
+http://127.0.0.1/dummy/PoliticsPunjab
+#EXTINF:-1 tvg-id="Pop" tvg-name="Pop" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Pop
+http://127.0.0.1/dummy/Pop
+#EXTINF:-1 tvg-id="Pop +1" tvg-name="Pop +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Pop +1
+http://127.0.0.1/dummy/Pop_plus1
+#EXTINF:-1 tvg-id="Pop Max" tvg-name="Pop Max" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Kids",Pop Max
+http://127.0.0.1/dummy/Pop_Max
+#EXTINF:-1 tvg-id="Pop Max +1" tvg-name="Pop Max +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Kids",Pop Max +1
+http://127.0.0.1/dummy/Pop_Max_plus1
+#EXTINF:-1 tvg-id="Premier Sports 1 ROI HD" tvg-name="Premier Sports 1 ROI HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Premier Sports 1 ROI HD
+http://127.0.0.1/dummy/Premier_Sports_1_ROI_HD
+#EXTINF:-1 tvg-id="Premier Sports 2 ROI HD" tvg-name="Premier Sports 2 ROI HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Premier Sports 2 ROI HD
+http://127.0.0.1/dummy/Premier_Sports_2_ROI_HD
+#EXTINF:-1 tvg-id="Primal Living" tvg-name="Primal Living" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Primal Living
+http://127.0.0.1/dummy/Primal_Living
+#EXTINF:-1 tvg-id="Psychic Today" tvg-name="Psychic Today" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Psychic Today
+http://127.0.0.1/dummy/Psychic_Today
+#EXTINF:-1 tvg-id="PTC PUNJABI" tvg-name="PTC PUNJABI" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="International",PTC PUNJABI
+http://127.0.0.1/dummy/PTC_PUNJABI
+#EXTINF:-1 tvg-id="PTV Global" tvg-name="PTV Global" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="International",PTV Global
+http://127.0.0.1/dummy/PTV_Global
+#EXTINF:-1 tvg-id="Quest" tvg-name="Quest" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Quest
+http://127.0.0.1/dummy/Quest
+#EXTINF:-1 tvg-id="Quest +1" tvg-name="Quest +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Quest +1
+http://127.0.0.1/dummy/Quest_plus1
+#EXTINF:-1 tvg-id="Quest HD" tvg-name="Quest HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Quest HD
+http://127.0.0.1/dummy/Quest_HD
+#EXTINF:-1 tvg-id="Quest Red" tvg-name="Quest Red" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Quest Red
+http://127.0.0.1/dummy/Quest_Red
+#EXTINF:-1 tvg-id="Quest Red +1" tvg-name="Quest Red +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Quest Red +1
+http://127.0.0.1/dummy/Quest_Red_plus1
+#EXTINF:-1 tvg-id="QVC" tvg-name="QVC" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",QVC
+http://127.0.0.1/dummy/QVC
+#EXTINF:-1 tvg-id="QVC Beauty" tvg-name="QVC Beauty" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",QVC Beauty
+http://127.0.0.1/dummy/QVC_Beauty
+#EXTINF:-1 tvg-id="QVC Extra" tvg-name="QVC Extra" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",QVC Extra
+http://127.0.0.1/dummy/QVC_Extra
+#EXTINF:-1 tvg-id="QVC HD" tvg-name="QVC HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",QVC HD
+http://127.0.0.1/dummy/QVC_HD
+#EXTINF:-1 tvg-id="QVC Style" tvg-name="QVC Style" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",QVC Style
+http://127.0.0.1/dummy/QVC_Style
+#EXTINF:-1 tvg-id="QVC Style HD" tvg-name="QVC Style HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",QVC Style HD
+http://127.0.0.1/dummy/QVC_Style_HD
+#EXTINF:-1 tvg-id="QVC2" tvg-name="QVC2" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",QVC2
+http://127.0.0.1/dummy/QVC2
+#EXTINF:-1 tvg-id="Racing TV" tvg-name="Racing TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Racing TV
+http://127.0.0.1/dummy/Racing_TV
+#EXTINF:-1 tvg-id="Racing TV HD" tvg-name="Racing TV HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Racing TV HD
+http://127.0.0.1/dummy/Racing_TV_HD
+#EXTINF:-1 tvg-id="RealityXtra" tvg-name="RealityXtra" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",RealityXtra
+http://127.0.0.1/dummy/RealityXtra
+#EXTINF:-1 tvg-id="Really" tvg-name="Really" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Really
+http://127.0.0.1/dummy/Really
+#EXTINF:-1 tvg-id="Republic Bharat" tvg-name="Republic Bharat" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Republic Bharat
+http://127.0.0.1/dummy/Republic_Bharat
+#EXTINF:-1 tvg-id="revelation" tvg-name="revelation" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",revelation
+http://127.0.0.1/dummy/revelation
+#EXTINF:-1 tvg-id="Rewind TV" tvg-name="Rewind TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Rewind TV
+http://127.0.0.1/dummy/Rewind_TV
+#EXTINF:-1 tvg-id="RTE Jr" tvg-name="RTE Jr" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",RTE Jr
+http://127.0.0.1/dummy/RTE_Jr
+#EXTINF:-1 tvg-id="RTE Jr (BK)" tvg-name="RTE Jr (BK)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",RTE Jr (BK)
+http://127.0.0.1/dummy/RTE_Jr_(BK)
+#EXTINF:-1 tvg-id="RTE News" tvg-name="RTE News" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="News",RTE News
+http://127.0.0.1/dummy/RTE_News
+#EXTINF:-1 tvg-id="RTE One" tvg-name="RTE One" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",RTE One
+http://127.0.0.1/dummy/RTE_One
+#EXTINF:-1 tvg-id="RTE One +1" tvg-name="RTE One +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",RTE One +1
+http://127.0.0.1/dummy/RTE_One_plus1
+#EXTINF:-1 tvg-id="RTE One HD" tvg-name="RTE One HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",RTE One HD
+http://127.0.0.1/dummy/RTE_One_HD
+#EXTINF:-1 tvg-id="RTE2" tvg-name="RTE2" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",RTE2
+http://127.0.0.1/dummy/RTE2
+#EXTINF:-1 tvg-id="RTE2 +1" tvg-name="RTE2 +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",RTE2 +1
+http://127.0.0.1/dummy/RTE2_plus1
+#EXTINF:-1 tvg-id="RTE2 HD" tvg-name="RTE2 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",RTE2 HD
+http://127.0.0.1/dummy/RTE2_HD
+#EXTINF:-1 tvg-id="S4C" tvg-name="S4C" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",S4C
+http://127.0.0.1/dummy/S4C
+#EXTINF:-1 tvg-id="S4C HD" tvg-name="S4C HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",S4C HD
+http://127.0.0.1/dummy/S4C_HD
+#EXTINF:-1 tvg-id="Sangat" tvg-name="Sangat" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sangat
+http://127.0.0.1/dummy/Sangat
+#EXTINF:-1 tvg-id="Sanskar" tvg-name="Sanskar" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sanskar
+http://127.0.0.1/dummy/Sanskar
+#EXTINF:-1 tvg-id="Sikh Channel" tvg-name="Sikh Channel" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sikh Channel
+http://127.0.0.1/dummy/Sikh_Channel
+#EXTINF:-1 tvg-id="Siraj TV" tvg-name="Siraj TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Siraj TV
+http://127.0.0.1/dummy/Siraj_TV
+#EXTINF:-1 tvg-id="Sky Arts" tvg-name="Sky Arts" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sky Arts
+http://127.0.0.1/dummy/Sky_Arts
+#EXTINF:-1 tvg-id="Sky Arts HD" tvg-name="Sky Arts HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sky Arts HD
+http://127.0.0.1/dummy/Sky_Arts_HD
+#EXTINF:-1 tvg-id="Sky Atlantic" tvg-name="Sky Atlantic" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sky Atlantic
+http://127.0.0.1/dummy/Sky_Atlantic
+#EXTINF:-1 tvg-id="Sky Atlantic +1" tvg-name="Sky Atlantic +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sky Atlantic +1
+http://127.0.0.1/dummy/Sky_Atlantic_plus1
+#EXTINF:-1 tvg-id="Sky Atlantic HD" tvg-name="Sky Atlantic HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sky Atlantic HD
+http://127.0.0.1/dummy/Sky_Atlantic_HD
+#EXTINF:-1 tvg-id="Sky Cinema Adventure" tvg-name="Sky Cinema Adventure" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Adventure
+http://127.0.0.1/dummy/Sky_Cinema_Adventure
+#EXTINF:-1 tvg-id="Sky Cinema Adventure HD" tvg-name="Sky Cinema Adventure HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Adventure HD
+http://127.0.0.1/dummy/Sky_Cinema_Adventure_HD
+#EXTINF:-1 tvg-id="Sky Cinema Blockbusters" tvg-name="Sky Cinema Blockbusters" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Blockbusters
+http://127.0.0.1/dummy/Sky_Cinema_Blockbusters
+#EXTINF:-1 tvg-id="Sky Cinema Blockbusters HD" tvg-name="Sky Cinema Blockbusters HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Blockbusters HD
+http://127.0.0.1/dummy/Sky_Cinema_Blockbusters_HD
+#EXTINF:-1 tvg-id="Sky Cinema Bruce Lee" tvg-name="Sky Cinema Bruce Lee" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Bruce Lee
+http://127.0.0.1/dummy/Sky_Cinema_Bruce_Lee
+#EXTINF:-1 tvg-id="Sky Cinema Bruce Lee HD" tvg-name="Sky Cinema Bruce Lee HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Bruce Lee HD
+http://127.0.0.1/dummy/Sky_Cinema_Bruce_Lee_HD
+#EXTINF:-1 tvg-id="Sky Cinema Action" tvg-name="Sky Cinema Action" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Action
+http://127.0.0.1/dummy/Sky_Cinema_Action
+#EXTINF:-1 tvg-id="Sky Cinema Action HD" tvg-name="Sky Cinema Action HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Action HD
+http://127.0.0.1/dummy/Sky_Cinema_Action_HD
+#EXTINF:-1 tvg-id="Sky Cinema Animation" tvg-name="Sky Cinema Animation" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Animation
+http://127.0.0.1/dummy/Sky_Cinema_Animation
+#EXTINF:-1 tvg-id="Sky Cinema Animation HD" tvg-name="Sky Cinema Animation HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Animation HD
+http://127.0.0.1/dummy/Sky_Cinema_Animation_HD
+#EXTINF:-1 tvg-id="Sky Cinema Drama" tvg-name="Sky Cinema Drama" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Drama
+http://127.0.0.1/dummy/Sky_Cinema_Drama
+#EXTINF:-1 tvg-id="Sky Cinema Drama HD" tvg-name="Sky Cinema Drama HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Drama HD
+http://127.0.0.1/dummy/Sky_Cinema_Drama_HD
+#EXTINF:-1 tvg-id="Sky Cinema Family" tvg-name="Sky Cinema Family" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Family
+http://127.0.0.1/dummy/Sky_Cinema_Family
+#EXTINF:-1 tvg-id="Sky Cinema Family HD" tvg-name="Sky Cinema Family HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Family HD
+http://127.0.0.1/dummy/Sky_Cinema_Family_HD
+#EXTINF:-1 tvg-id="Sky Cinema Fast & Furious HD" tvg-name="Sky Cinema Fast & Furious HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Fast & Furious HD
+http://127.0.0.1/dummy/Sky_Cinema_Fast_&_Furious_HD
+#EXTINF:-1 tvg-id="Sky Cinema Greats" tvg-name="Sky Cinema Greats" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Greats
+http://127.0.0.1/dummy/Sky_Cinema_Greats
+#EXTINF:-1 tvg-id="Sky Cinema Greats HD" tvg-name="Sky Cinema Greats HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Greats HD
+http://127.0.0.1/dummy/Sky_Cinema_Greats_HD
+#EXTINF:-1 tvg-id="Sky Cinema Hits" tvg-name="Sky Cinema Hits" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Hits
+http://127.0.0.1/dummy/Sky_Cinema_Hits
+#EXTINF:-1 tvg-id="Sky Cinema Hits HD" tvg-name="Sky Cinema Hits HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Hits HD
+http://127.0.0.1/dummy/Sky_Cinema_Hits_HD
+#EXTINF:-1 tvg-id="Sky Cinema Premiere" tvg-name="Sky Cinema Premiere" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Premiere
+http://127.0.0.1/dummy/Sky_Cinema_Premiere
+#EXTINF:-1 tvg-id="Sky Cinema Premiere +1" tvg-name="Sky Cinema Premiere +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Premiere +1
+http://127.0.0.1/dummy/Sky_Cinema_Premiere_plus1
+#EXTINF:-1 tvg-id="Sky Cinema Premiere HD" tvg-name="Sky Cinema Premiere HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Premiere HD
+http://127.0.0.1/dummy/Sky_Cinema_Premiere_HD
+#EXTINF:-1 tvg-id="Sky Cinema Sci-fi/Horror" tvg-name="Sky Cinema Sci-fi/Horror" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Sci-fi/Horror
+http://127.0.0.1/dummy/Sky_Cinema_Sci-fi_Horror
+#EXTINF:-1 tvg-id="Sky Cinema Sci-fi/Horror HD" tvg-name="Sky Cinema Sci-fi/Horror HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Sci-fi/Horror HD
+http://127.0.0.1/dummy/Sky_Cinema_Sci-fi_Horror_HD
+#EXTINF:-1 tvg-id="Sky Cinema Superman HD" tvg-name="Sky Cinema Superman HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Superman HD
+http://127.0.0.1/dummy/Sky_Cinema_Superman_HD
+#EXTINF:-1 tvg-id="Sky Cinema Thriller" tvg-name="Sky Cinema Thriller" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Thriller
+http://127.0.0.1/dummy/Sky_Cinema_Thriller
+#EXTINF:-1 tvg-id="Sky Cinema Thriller HD" tvg-name="Sky Cinema Thriller HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Thriller HD
+http://127.0.0.1/dummy/Sky_Cinema_Thriller_HD
+#EXTINF:-1 tvg-id="Sky Cinema Ultimate Comedy" tvg-name="Sky Cinema Ultimate Comedy" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Ultimate Comedy
+http://127.0.0.1/dummy/Sky_Cinema_Ultimate_Comedy
+#EXTINF:-1 tvg-id="Sky Cinema Ultimate Comedy HD" tvg-name="Sky Cinema Ultimate Comedy HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Ultimate Comedy HD
+http://127.0.0.1/dummy/Sky_Cinema_Ultimate_Comedy_HD
+#EXTINF:-1 tvg-id="Sky Cinema Wizarding World" tvg-name="Sky Cinema Wizarding World" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Wizarding World
+http://127.0.0.1/dummy/Sky_Cinema_Wizarding_World
+#EXTINF:-1 tvg-id="Sky Cinema Wizarding World HD" tvg-name="Sky Cinema Wizarding World HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sky Cinema Wizarding World HD
+http://127.0.0.1/dummy/Sky_Cinema_Wizarding_World_HD
+#EXTINF:-1 tvg-id="Sky Comedy" tvg-name="Sky Comedy" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sky Comedy
+http://127.0.0.1/dummy/Sky_Comedy
+#EXTINF:-1 tvg-id="Sky Comedy HD" tvg-name="Sky Comedy HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sky Comedy HD
+http://127.0.0.1/dummy/Sky_Comedy_HD
+#EXTINF:-1 tvg-id="Sky Crime" tvg-name="Sky Crime" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sky Crime
+http://127.0.0.1/dummy/Sky_Crime
+#EXTINF:-1 tvg-id="Sky Crime +1" tvg-name="Sky Crime +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sky Crime +1
+http://127.0.0.1/dummy/Sky_Crime_plus1
+#EXTINF:-1 tvg-id="Sky Crime HD" tvg-name="Sky Crime HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sky Crime HD
+http://127.0.0.1/dummy/Sky_Crime_HD
+#EXTINF:-1 tvg-id="Sky Documentaries" tvg-name="Sky Documentaries" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sky Documentaries
+http://127.0.0.1/dummy/Sky_Documentaries
+#EXTINF:-1 tvg-id="Sky Documentaries HD" tvg-name="Sky Documentaries HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sky Documentaries HD
+http://127.0.0.1/dummy/Sky_Documentaries_HD
+#EXTINF:-1 tvg-id="Sky History" tvg-name="Sky History" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Sky History
+http://127.0.0.1/dummy/Sky_History
+#EXTINF:-1 tvg-id="Sky History +1" tvg-name="Sky History +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Sky History +1
+http://127.0.0.1/dummy/Sky_History_plus1
+#EXTINF:-1 tvg-id="Sky History 2" tvg-name="Sky History 2" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Sky History 2
+http://127.0.0.1/dummy/Sky_History_2
+#EXTINF:-1 tvg-id="Sky History 2 HD" tvg-name="Sky History 2 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Sky History 2 HD
+http://127.0.0.1/dummy/Sky_History_2_HD
+#EXTINF:-1 tvg-id="Sky History HD" tvg-name="Sky History HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Sky History HD
+http://127.0.0.1/dummy/Sky_History_HD
+#EXTINF:-1 tvg-id="Sky Kids" tvg-name="Sky Kids" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Kids",Sky Kids
+http://127.0.0.1/dummy/Sky_Kids
+#EXTINF:-1 tvg-id="Sky Kids HD" tvg-name="Sky Kids HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Kids",Sky Kids HD
+http://127.0.0.1/dummy/Sky_Kids_HD
+#EXTINF:-1 tvg-id="Sky Max" tvg-name="Sky Max" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sky Max
+http://127.0.0.1/dummy/Sky_Max
+#EXTINF:-1 tvg-id="Sky Max HD" tvg-name="Sky Max HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sky Max HD
+http://127.0.0.1/dummy/Sky_Max_HD
+#EXTINF:-1 tvg-id="Sky Mix" tvg-name="Sky Mix" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sky Mix
+http://127.0.0.1/dummy/Sky_Mix
+#EXTINF:-1 tvg-id="Sky Mix HD" tvg-name="Sky Mix HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sky Mix HD
+http://127.0.0.1/dummy/Sky_Mix_HD
+#EXTINF:-1 tvg-id="Sky Nature" tvg-name="Sky Nature" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sky Nature
+http://127.0.0.1/dummy/Sky_Nature
+#EXTINF:-1 tvg-id="Sky Nature HD" tvg-name="Sky Nature HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sky Nature HD
+http://127.0.0.1/dummy/Sky_Nature_HD
+#EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="News",Sky News
+http://127.0.0.1/dummy/Sky_News
+#EXTINF:-1 tvg-id="Sky News HD" tvg-name="Sky News HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="News",Sky News HD
+http://127.0.0.1/dummy/Sky_News_HD
+#EXTINF:-1 tvg-id="Sky Replay" tvg-name="Sky Replay" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sky Replay
+http://127.0.0.1/dummy/Sky_Replay
+#EXTINF:-1 tvg-id="Sky Sci-Fi" tvg-name="Sky Sci-Fi" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sky Sci-Fi
+http://127.0.0.1/dummy/Sky_Sci-Fi
+#EXTINF:-1 tvg-id="Sky Sci-Fi HD" tvg-name="Sky Sci-Fi HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sky Sci-Fi HD
+http://127.0.0.1/dummy/Sky_Sci-Fi_HD
+#EXTINF:-1 tvg-id="SkySciFiHitsHD" tvg-name="Sky Sci-Fi Hits HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sky Sci-Fi Hits HD
+http://127.0.0.1/dummy/SkySciFiHitsHD
+#EXTINF:-1 tvg-id="Sky Showcase" tvg-name="Sky Showcase" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sky Showcase
+http://127.0.0.1/dummy/Sky_Showcase
+#EXTINF:-1 tvg-id="Sky Showcase +1" tvg-name="Sky Showcase +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sky Showcase +1
+http://127.0.0.1/dummy/Sky_Showcase_plus1
+#EXTINF:-1 tvg-id="Sky Showcase HD" tvg-name="Sky Showcase HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sky Showcase HD
+http://127.0.0.1/dummy/Sky_Showcase_HD
+#EXTINF:-1 tvg-id="Sky Sports Arena" tvg-name="Sky Sports Arena" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports Arena
+http://127.0.0.1/dummy/Sky_Sports_Arena
+#EXTINF:-1 tvg-id="Sky Sports Arena HD" tvg-name="Sky Sports Arena HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports Arena HD
+http://127.0.0.1/dummy/Sky_Sports_Arena_HD
+#EXTINF:-1 tvg-id="Sky Sports Box Office" tvg-name="Sky Sports Box Office" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports Box Office
+http://127.0.0.1/dummy/Sky_Sports_Box_Office
+#EXTINF:-1 tvg-id="Sky Sports Box Office HD" tvg-name="Sky Sports Box Office HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports Box Office HD
+http://127.0.0.1/dummy/Sky_Sports_Box_Office_HD
+#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-name="Sky Sports Cricket" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports Cricket
+http://127.0.0.1/dummy/Sky_Sports_Cricket
+#EXTINF:-1 tvg-id="Sky Sports Cricket HD" tvg-name="Sky Sports Cricket HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports Cricket HD
+http://127.0.0.1/dummy/Sky_Sports_Cricket_HD
+#EXTINF:-1 tvg-id="Sky Sports Darts" tvg-name="Sky Sports Darts" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports Darts
+http://127.0.0.1/dummy/Sky_Sports_Darts
+#EXTINF:-1 tvg-id="Sky Sports Darts HD" tvg-name="Sky Sports Darts HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports Darts HD
+http://127.0.0.1/dummy/Sky_Sports_Darts_HD
+#EXTINF:-1 tvg-id="Sky Sports F1" tvg-name="Sky Sports F1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports F1
+http://127.0.0.1/dummy/Sky_Sports_F1
+#EXTINF:-1 tvg-id="Sky Sports F1 HD" tvg-name="Sky Sports F1 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports F1 HD
+http://127.0.0.1/dummy/Sky_Sports_F1_HD
+#EXTINF:-1 tvg-id="Sky Sports Football" tvg-name="Sky Sports Football" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports Football
+http://127.0.0.1/dummy/Sky_Sports_Football
+#EXTINF:-1 tvg-id="Sky Sports Football HD" tvg-name="Sky Sports Football HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports Football HD
+http://127.0.0.1/dummy/Sky_Sports_Football_HD
+#EXTINF:-1 tvg-id="Sky Sports Golf" tvg-name="Sky Sports Golf" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports Golf
+http://127.0.0.1/dummy/Sky_Sports_Golf
+#EXTINF:-1 tvg-id="Sky Sports Golf HD" tvg-name="Sky Sports Golf HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports Golf HD
+http://127.0.0.1/dummy/Sky_Sports_Golf_HD
+#EXTINF:-1 tvg-id="Sky Sports Main Event" tvg-name="Sky Sports Main Event" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports Main Event
+http://127.0.0.1/dummy/Sky_Sports_Main_Event
+#EXTINF:-1 tvg-id="Sky Sports Main Event HD" tvg-name="Sky Sports Main Event HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports Main Event HD
+http://127.0.0.1/dummy/Sky_Sports_Main_Event_HD
+#EXTINF:-1 tvg-id="Sky Sports Main Event Ultra HDR" tvg-name="Sky Sports Main Event Ultra HDR" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports Main Event Ultra HDR
+http://127.0.0.1/dummy/Sky_Sports_Main_Event_Ultra_HDR
+#EXTINF:-1 tvg-id="Sky Sports Mix" tvg-name="Sky Sports Mix" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports Mix
+http://127.0.0.1/dummy/Sky_Sports_Mix
+#EXTINF:-1 tvg-id="Sky Sports Mix HD" tvg-name="Sky Sports Mix HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports Mix HD
+http://127.0.0.1/dummy/Sky_Sports_Mix_HD
+#EXTINF:-1 tvg-id="Sky Sports News" tvg-name="Sky Sports News" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports News
+http://127.0.0.1/dummy/Sky_Sports_News
+#EXTINF:-1 tvg-id="Sky Sports News HD" tvg-name="Sky Sports News HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports News HD
+http://127.0.0.1/dummy/Sky_Sports_News_HD
+#EXTINF:-1 tvg-id="Sky Sports NFL" tvg-name="Sky Sports NFL" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports NFL
+http://127.0.0.1/dummy/Sky_Sports_NFL
+#EXTINF:-1 tvg-id="Sky Sports NFL HD" tvg-name="Sky Sports NFL HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports NFL HD
+http://127.0.0.1/dummy/Sky_Sports_NFL_HD
+#EXTINF:-1 tvg-id="Sky Sports +" tvg-name="Sky Sports +" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports +
+http://127.0.0.1/dummy/Sky_Sports_plus
+#EXTINF:-1 tvg-id="Sky Sports + HD" tvg-name="Sky Sports + HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports + HD
+http://127.0.0.1/dummy/Sky_Sports_plus_HD
+#EXTINF:-1 tvg-id="Sky Sports Premier League" tvg-name="Sky Sports Premier League" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports Premier League
+http://127.0.0.1/dummy/Sky_Sports_Premier_League
+#EXTINF:-1 tvg-id="Sky Sports Premier League HD" tvg-name="Sky Sports Premier League HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports Premier League HD
+http://127.0.0.1/dummy/Sky_Sports_Premier_League_HD
+#EXTINF:-1 tvg-id="Sky Sports Premier League ROI" tvg-name="Sky Sports Premier League ROI" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports Premier League ROI
+http://127.0.0.1/dummy/Sky_Sports_Premier_League_ROI
+#EXTINF:-1 tvg-id="Sky Sports Premier League ROI HD" tvg-name="Sky Sports Premier League ROI HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports Premier League ROI HD
+http://127.0.0.1/dummy/Sky_Sports_Premier_League_ROI_HD
+#EXTINF:-1 tvg-id="Sky Sports Racing" tvg-name="Sky Sports Racing" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports Racing
+http://127.0.0.1/dummy/Sky_Sports_Racing
+#EXTINF:-1 tvg-id="Sky Sports Racing HD" tvg-name="Sky Sports Racing HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sky Sports Racing HD
+http://127.0.0.1/dummy/Sky_Sports_Racing_HD
+#EXTINF:-1 tvg-id="Sky Witness" tvg-name="Sky Witness" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sky Witness
+http://127.0.0.1/dummy/Sky_Witness
+#EXTINF:-1 tvg-id="Sky Witness +1" tvg-name="Sky Witness +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sky Witness +1
+http://127.0.0.1/dummy/Sky_Witness_plus1
+#EXTINF:-1 tvg-id="Sky Witness HD" tvg-name="Sky Witness HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sky Witness HD
+http://127.0.0.1/dummy/Sky_Witness_HD
+#EXTINF:-1 tvg-id="SonLife" tvg-name="SonLife" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",SonLife
+http://127.0.0.1/dummy/SonLife
+#EXTINF:-1 tvg-id="Sony Action" tvg-name="Sony Action" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sony Action
+http://127.0.0.1/dummy/Sony_Action
+#EXTINF:-1 tvg-id="Sony Action+1" tvg-name="Sony Action+1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sony Action+1
+http://127.0.0.1/dummy/Sony_Actionplus1
+#EXTINF:-1 tvg-id="Sony Channel" tvg-name="Sony Channel" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sony Channel
+http://127.0.0.1/dummy/Sony_Channel
+#EXTINF:-1 tvg-id="Sony Channel+1" tvg-name="Sony Channel+1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sony Channel+1
+http://127.0.0.1/dummy/Sony_Channelplus1
+#EXTINF:-1 tvg-id="Sony Classic" tvg-name="Sony Classic" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sony Classic
+http://127.0.0.1/dummy/Sony_Classic
+#EXTINF:-1 tvg-id="Sony Classic+1" tvg-name="Sony Classic+1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sony Classic+1
+http://127.0.0.1/dummy/Sony_Classicplus1
+#EXTINF:-1 tvg-id="Sony Entertainment TV Asia" tvg-name="Sony Entertainment TV Asia" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="International",Sony Entertainment TV Asia
+http://127.0.0.1/dummy/Sony_Entertainment_TV_Asia
+#EXTINF:-1 tvg-id="Sony Entertainment TV Asia HD" tvg-name="Sony Entertainment TV Asia HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="International",Sony Entertainment TV Asia HD
+http://127.0.0.1/dummy/Sony_Entertainment_TV_Asia_HD
+#EXTINF:-1 tvg-id="Sony MAX" tvg-name="Sony MAX" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sony MAX
+http://127.0.0.1/dummy/Sony_MAX
+#EXTINF:-1 tvg-id="Sony MAX 2" tvg-name="Sony MAX 2" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sony MAX 2
+http://127.0.0.1/dummy/Sony_MAX_2
+#EXTINF:-1 tvg-id="Sony MAX HD" tvg-name="Sony MAX HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sony MAX HD
+http://127.0.0.1/dummy/Sony_MAX_HD
+#EXTINF:-1 tvg-id="Sony Movies" tvg-name="Sony Movies" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sony Movies
+http://127.0.0.1/dummy/Sony_Movies
+#EXTINF:-1 tvg-id="Sony Movies+1" tvg-name="Sony Movies+1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Sony Movies+1
+http://127.0.0.1/dummy/Sony_Moviesplus1
+#EXTINF:-1 tvg-id="Sony SAB" tvg-name="Sony SAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sony SAB
+http://127.0.0.1/dummy/Sony_SAB
+#EXTINF:-1 tvg-id="Sportystuff TV HD" tvg-name="Sportystuff TV HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Sportystuff TV HD
+http://127.0.0.1/dummy/Sportystuff_TV_HD
+#EXTINF:-1 tvg-id="Star Bharat" tvg-name="Star Bharat" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Star Bharat
+http://127.0.0.1/dummy/Star_Bharat
+#EXTINF:-1 tvg-id="Star GOLD" tvg-name="Star GOLD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="International",Star GOLD
+http://127.0.0.1/dummy/Star_GOLD
+#EXTINF:-1 tvg-id="Star GOLD HD" tvg-name="Star GOLD HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="International",Star GOLD HD
+http://127.0.0.1/dummy/Star_GOLD_HD
+#EXTINF:-1 tvg-id="Star Plus" tvg-name="Star Plus" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="International",Star Plus
+http://127.0.0.1/dummy/Star_Plus
+#EXTINF:-1 tvg-id="Star Plus HD" tvg-name="Star Plus HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="International",Star Plus HD
+http://127.0.0.1/dummy/Star_Plus_HD
+#EXTINF:-1 tvg-id="STV Central" tvg-name="STV Central" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",STV Central
+http://127.0.0.1/dummy/STV_Central
+#EXTINF:-1 tvg-id="STV Central +1" tvg-name="STV Central +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",STV Central +1
+http://127.0.0.1/dummy/STV_Central_plus1
+#EXTINF:-1 tvg-id="STV HD" tvg-name="STV HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",STV HD
+http://127.0.0.1/dummy/STV_HD
+#EXTINF:-1 tvg-id="STV North" tvg-name="STV North" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",STV North
+http://127.0.0.1/dummy/STV_North
+#EXTINF:-1 tvg-id="STV North +1" tvg-name="STV North +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",STV North +1
+http://127.0.0.1/dummy/STV_North_plus1
+#EXTINF:-1 tvg-id="Takbeer TV" tvg-name="Takbeer TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Takbeer TV
+http://127.0.0.1/dummy/Takbeer_TV
+#EXTINF:-1 tvg-id="Talk TV" tvg-name="Talk TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Talk TV
+http://127.0.0.1/dummy/Talk_TV
+#EXTINF:-1 tvg-id="Talk TV HD" tvg-name="Talk TV HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Talk TV HD
+http://127.0.0.1/dummy/Talk_TV_HD
+#EXTINF:-1 tvg-id="TalkBirmingham" tvg-name="TalkBirmingham" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",TalkBirmingham
+http://127.0.0.1/dummy/TalkBirmingham
+#EXTINF:-1 tvg-id="TalkBristol" tvg-name="TalkBristol" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",TalkBristol
+http://127.0.0.1/dummy/TalkBristol
+#EXTINF:-1 tvg-id="TalkCardiff" tvg-name="TalkCardiff" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",TalkCardiff
+http://127.0.0.1/dummy/TalkCardiff
+#EXTINF:-1 tvg-id="Talking Pictures TV" tvg-name="Talking Pictures TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Talking Pictures TV
+http://127.0.0.1/dummy/Talking_Pictures_TV
+#EXTINF:-1 tvg-id="TalkLeeds" tvg-name="TalkLeeds" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",TalkLeeds
+http://127.0.0.1/dummy/TalkLeeds
+#EXTINF:-1 tvg-id="TalkLiverpool" tvg-name="TalkLiverpool" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",TalkLiverpool
+http://127.0.0.1/dummy/TalkLiverpool
+#EXTINF:-1 tvg-id="TalkNorthWales" tvg-name="TalkNorthWales" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",TalkNorthWales
+http://127.0.0.1/dummy/TalkNorthWales
+#EXTINF:-1 tvg-id="TalkTeesside" tvg-name="TalkTeesside" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",TalkTeesside
+http://127.0.0.1/dummy/TalkTeesside
+#EXTINF:-1 tvg-id="TalkTyne&Wear" tvg-name="TalkTyne&Wear" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",TalkTyne&Wear
+http://127.0.0.1/dummy/TalkTyne&Wear
+#EXTINF:-1 tvg-id="TBN UK" tvg-name="TBN UK" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Religion",TBN UK
+http://127.0.0.1/dummy/TBN_UK
+#EXTINF:-1 tvg-id="TG4" tvg-name="TG4" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",TG4
+http://127.0.0.1/dummy/TG4
+#EXTINF:-1 tvg-id="TG4 HD" tvg-name="TG4 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",TG4 HD
+http://127.0.0.1/dummy/TG4_HD
+#EXTINF:-1 tvg-id="Thats 60s" tvg-name="Thats 60s" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Thats 60s
+http://127.0.0.1/dummy/Thats_60s
+#EXTINF:-1 tvg-id="Thats 60s (MCR Freeview)" tvg-name="Thats 60s (MCR Freeview)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Thats 60s (MCR Freeview)
+http://127.0.0.1/dummy/Thats_60s_(MCR_Freeview)
+#EXTINF:-1 tvg-id="Thats 70s (MCR Freeview)" tvg-name="Thats 70s (MCR Freeview)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Thats 70s (MCR Freeview)
+http://127.0.0.1/dummy/Thats_70s_(MCR_Freeview)
+#EXTINF:-1 tvg-id="Thats 90s" tvg-name="Thats 90s" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Thats 90s
+http://127.0.0.1/dummy/Thats_90s
+#EXTINF:-1 tvg-id="Thats 90s (MCR Freeview)" tvg-name="Thats 90s (MCR Freeview)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Thats 90s (MCR Freeview)
+http://127.0.0.1/dummy/Thats_90s_(MCR_Freeview)
+#EXTINF:-1 tvg-id="Thats Christmas" tvg-name="Thats Christmas" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Thats Christmas
+http://127.0.0.1/dummy/Thats_Christmas
+#EXTINF:-1 tvg-id="Thats TV" tvg-name="Thats TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Thats TV
+http://127.0.0.1/dummy/Thats_TV
+#EXTINF:-1 tvg-id="Thats TV (Freeview)" tvg-name="Thats TV (Freeview)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Thats TV (Freeview)
+http://127.0.0.1/dummy/Thats_TV_(Freeview)
+#EXTINF:-1 tvg-id="The Box" tvg-name="The Box" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Music",The Box
+http://127.0.0.1/dummy/The_Box
+#EXTINF:-1 tvg-id="Tiny Pop" tvg-name="Tiny Pop" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Kids",Tiny Pop
+http://127.0.0.1/dummy/Tiny_Pop
+#EXTINF:-1 tvg-id="Tiny Pop (Freeview)" tvg-name="Tiny Pop (Freeview)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Kids",Tiny Pop (Freeview)
+http://127.0.0.1/dummy/Tiny_Pop_(Freeview)
+#EXTINF:-1 tvg-id="Tiny Pop +1" tvg-name="Tiny Pop +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Kids",Tiny Pop +1
+http://127.0.0.1/dummy/Tiny_Pop_plus1
+#EXTINF:-1 tvg-id="TJC" tvg-name="TJC" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",TJC
+http://127.0.0.1/dummy/TJC
+#EXTINF:-1 tvg-id="TJC Beauty" tvg-name="TJC Beauty" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",TJC Beauty
+http://127.0.0.1/dummy/TJC_Beauty
+#EXTINF:-1 tvg-id="TJC HD" tvg-name="TJC HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",TJC HD
+http://127.0.0.1/dummy/TJC_HD
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",TLC
+http://127.0.0.1/dummy/TLC
+#EXTINF:-1 tvg-id="TLC +1" tvg-name="TLC +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",TLC +1
+http://127.0.0.1/dummy/TLC_plus1
+#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",TLC HD
+http://127.0.0.1/dummy/TLC_HD
+#EXTINF:-1 tvg-id="TNT Sports 1" tvg-name="TNT Sports 1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",TNT Sports 1
+http://127.0.0.1/dummy/TNT_Sports_1
+#EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT Sports 1 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",TNT Sports 1 HD
+http://127.0.0.1/dummy/TNT_Sports_1_HD
+#EXTINF:-1 tvg-id="TNT Sports 2" tvg-name="TNT Sports 2" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",TNT Sports 2
+http://127.0.0.1/dummy/TNT_Sports_2
+#EXTINF:-1 tvg-id="TNT Sports 2 HD" tvg-name="TNT Sports 2 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",TNT Sports 2 HD
+http://127.0.0.1/dummy/TNT_Sports_2_HD
+#EXTINF:-1 tvg-id="TNT Sports 3" tvg-name="TNT Sports 3" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",TNT Sports 3
+http://127.0.0.1/dummy/TNT_Sports_3
+#EXTINF:-1 tvg-id="TNT Sports 3 HD" tvg-name="TNT Sports 3 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",TNT Sports 3 HD
+http://127.0.0.1/dummy/TNT_Sports_3_HD
+#EXTINF:-1 tvg-id="TNT Sports 4" tvg-name="TNT Sports 4" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",TNT Sports 4
+http://127.0.0.1/dummy/TNT_Sports_4
+#EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT Sports 4 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",TNT Sports 4 HD
+http://127.0.0.1/dummy/TNT_Sports_4_HD
+#EXTINF:-1 tvg-id="TNT Sports 5" tvg-name="TNT Sports 5" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",TNT Sports 5
+http://127.0.0.1/dummy/TNT_Sports_5
+#EXTINF:-1 tvg-id="TNT Sports 5 HD" tvg-name="TNT Sports 5 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",TNT Sports 5 HD
+http://127.0.0.1/dummy/TNT_Sports_5_HD
+#EXTINF:-1 tvg-id="TNT Sports 6" tvg-name="TNT Sports 6" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",TNT Sports 6
+http://127.0.0.1/dummy/TNT_Sports_6
+#EXTINF:-1 tvg-id="TNT Sports 6 HD" tvg-name="TNT Sports 6 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",TNT Sports 6 HD
+http://127.0.0.1/dummy/TNT_Sports_6_HD
+#EXTINF:-1 tvg-id="TNT Sports 7" tvg-name="TNT Sports 7" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",TNT Sports 7
+http://127.0.0.1/dummy/TNT_Sports_7
+#EXTINF:-1 tvg-id="TNT Sports 7 HD" tvg-name="TNT Sports 7 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",TNT Sports 7 HD
+http://127.0.0.1/dummy/TNT_Sports_7_HD
+#EXTINF:-1 tvg-id="TNT Sports 8" tvg-name="TNT Sports 8" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",TNT Sports 8
+http://127.0.0.1/dummy/TNT_Sports_8
+#EXTINF:-1 tvg-id="TNT Sports 8 HD" tvg-name="TNT Sports 8 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",TNT Sports 8 HD
+http://127.0.0.1/dummy/TNT_Sports_8_HD
+#EXTINF:-1 tvg-id="TNT Sports 9" tvg-name="TNT Sports 9" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",TNT Sports 9
+http://127.0.0.1/dummy/TNT_Sports_9
+#EXTINF:-1 tvg-id="TNT Sports 9 HD" tvg-name="TNT Sports 9 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",TNT Sports 9 HD
+http://127.0.0.1/dummy/TNT_Sports_9_HD
+#EXTINF:-1 tvg-id="TNT Sports 10" tvg-name="TNT Sports 10" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",TNT Sports 10
+http://127.0.0.1/dummy/TNT_Sports_10
+#EXTINF:-1 tvg-id="TNT Sports 10 HD" tvg-name="TNT Sports 10 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",TNT Sports 10 HD
+http://127.0.0.1/dummy/TNT_Sports_10_HD
+#EXTINF:-1 tvg-id="TNT Sports Box Office HD" tvg-name="TNT Sports Box Office HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",TNT Sports Box Office HD
+http://127.0.0.1/dummy/TNT_Sports_Box_Office_HD
+#EXTINF:-1 tvg-id="TNT Sports Box Office HD 2" tvg-name="TNT Sports Box Office HD 2" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",TNT Sports Box Office HD 2
+http://127.0.0.1/dummy/TNT_Sports_Box_Office_HD_2
+#EXTINF:-1 tvg-id="TNT Sports Ultimate" tvg-name="TNT Sports Ultimate" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",TNT Sports Ultimate
+http://127.0.0.1/dummy/TNT_Sports_Ultimate
+#EXTINF:-1 tvg-id="TNT Sports Ultimate (BK)" tvg-name="TNT Sports Ultimate (BK)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",TNT Sports Ultimate (BK)
+http://127.0.0.1/dummy/TNT_Sports_Ultimate_(BK)
+#EXTINF:-1 tvg-id="Together TV" tvg-name="Together TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Together TV
+http://127.0.0.1/dummy/Together_TV
+#EXTINF:-1 tvg-id="Together TV +1" tvg-name="Together TV +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Together TV +1
+http://127.0.0.1/dummy/Together_TV_plus1
+#EXTINF:-1 tvg-id="Trace Vault" tvg-name="Trace Vault" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Music",Trace Vault
+http://127.0.0.1/dummy/Trace_Vault
+#EXTINF:-1 tvg-id="Travelxp" tvg-name="Travelxp" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Travelxp
+http://127.0.0.1/dummy/Travelxp
+#EXTINF:-1 tvg-id="TRT World" tvg-name="TRT World" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",TRT World
+http://127.0.0.1/dummy/TRT_World
+#EXTINF:-1 tvg-id="TRT World HD" tvg-name="TRT World HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",TRT World HD
+http://127.0.0.1/dummy/TRT_World_HD
+#EXTINF:-1 tvg-id="True Crime" tvg-name="True Crime" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",True Crime
+http://127.0.0.1/dummy/True_Crime
+#EXTINF:-1 tvg-id="True Crime +1" tvg-name="True Crime +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",True Crime +1
+http://127.0.0.1/dummy/True_Crime_plus1
+#EXTINF:-1 tvg-id="True Crime Xtra" tvg-name="True Crime Xtra" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",True Crime Xtra
+http://127.0.0.1/dummy/True_Crime_Xtra
+#EXTINF:-1 tvg-id="TV One" tvg-name="TV One" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",TV One
+http://127.0.0.1/dummy/TV_One
+#EXTINF:-1 tvg-id="TV Warehouse" tvg-name="TV Warehouse" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",TV Warehouse
+http://127.0.0.1/dummy/TV_Warehouse
+#EXTINF:-1 tvg-id="TV3 Catalonia" tvg-name="TV3 Catalonia" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",TV3 Catalonia
+http://127.0.0.1/dummy/TV3_Catalonia
+#EXTINF:-1 tvg-id="TVC News" tvg-name="TVC News" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="News",TVC News
+http://127.0.0.1/dummy/TVC_News
+#EXTINF:-1 tvg-id="Utsav Bharat" tvg-name="Utsav Bharat" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Utsav Bharat
+http://127.0.0.1/dummy/Utsav_Bharat
+#EXTINF:-1 tvg-id="Utsav Gold" tvg-name="Utsav Gold" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Utsav Gold
+http://127.0.0.1/dummy/Utsav_Gold
+#EXTINF:-1 tvg-id="Utsav Gold HD" tvg-name="Utsav Gold HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Utsav Gold HD
+http://127.0.0.1/dummy/Utsav_Gold_HD
+#EXTINF:-1 tvg-id="Utsav Plus" tvg-name="Utsav Plus" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Utsav Plus
+http://127.0.0.1/dummy/Utsav_Plus
+#EXTINF:-1 tvg-id="Utsav Plus HD" tvg-name="Utsav Plus HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Utsav Plus HD
+http://127.0.0.1/dummy/Utsav_Plus_HD
+#EXTINF:-1 tvg-id="UTV" tvg-name="UTV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",UTV
+http://127.0.0.1/dummy/UTV
+#EXTINF:-1 tvg-id="UTV +1" tvg-name="UTV +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",UTV +1
+http://127.0.0.1/dummy/UTV_plus1
+#EXTINF:-1 tvg-id="UTV HD" tvg-name="UTV HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",UTV HD
+http://127.0.0.1/dummy/UTV_HD
+#EXTINF:-1 tvg-id="Venus TV" tvg-name="Venus TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Venus TV
+http://127.0.0.1/dummy/Venus_TV
+#EXTINF:-1 tvg-id="Viaplay Sports 1 HD" tvg-name="Viaplay Sports 1 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Viaplay Sports 1 HD
+http://127.0.0.1/dummy/Viaplay_Sports_1_HD
+#EXTINF:-1 tvg-id="Viaplay Sports 2" tvg-name="Viaplay Sports 2" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Viaplay Sports 2
+http://127.0.0.1/dummy/Viaplay_Sports_2
+#EXTINF:-1 tvg-id="Viaplay Sports 2 HD" tvg-name="Viaplay Sports 2 HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",Viaplay Sports 2 HD
+http://127.0.0.1/dummy/Viaplay_Sports_2_HD
+#EXTINF:-1 tvg-id="Viaplay Xtra HD" tvg-name="Viaplay Xtra HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Viaplay Xtra HD
+http://127.0.0.1/dummy/Viaplay_Xtra_HD
+#EXTINF:-1 tvg-id="Virgin Media One" tvg-name="Virgin Media One" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Virgin Media One
+http://127.0.0.1/dummy/Virgin_Media_One
+#EXTINF:-1 tvg-id="Virgin Media One +1" tvg-name="Virgin Media One +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Virgin Media One +1
+http://127.0.0.1/dummy/Virgin_Media_One_plus1
+#EXTINF:-1 tvg-id="Virgin Media One HD" tvg-name="Virgin Media One HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Virgin Media One HD
+http://127.0.0.1/dummy/Virgin_Media_One_HD
+#EXTINF:-1 tvg-id="Virgin Media Two" tvg-name="Virgin Media Two" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Virgin Media Two
+http://127.0.0.1/dummy/Virgin_Media_Two
+#EXTINF:-1 tvg-id="Virgin Media Two HD" tvg-name="Virgin Media Two HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Virgin Media Two HD
+http://127.0.0.1/dummy/Virgin_Media_Two_HD
+#EXTINF:-1 tvg-id="Virgin Media Three" tvg-name="Virgin Media Three" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Virgin Media Three
+http://127.0.0.1/dummy/Virgin_Media_Three
+#EXTINF:-1 tvg-id="Virgin Media Three HD" tvg-name="Virgin Media Three HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Virgin Media Three HD
+http://127.0.0.1/dummy/Virgin_Media_Three_HD
+#EXTINF:-1 tvg-id="Virgin Media Four" tvg-name="Virgin Media Four" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Virgin Media Four
+http://127.0.0.1/dummy/Virgin_Media_Four
+#EXTINF:-1 tvg-id="Virgin Media Four HD" tvg-name="Virgin Media Four HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Virgin Media Four HD
+http://127.0.0.1/dummy/Virgin_Media_Four_HD
+#EXTINF:-1 tvg-id="Virgin Media More" tvg-name="Virgin Media More" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Virgin Media More
+http://127.0.0.1/dummy/Virgin_Media_More
+#EXTINF:-1 tvg-id="W" tvg-name="W" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",W
+http://127.0.0.1/dummy/W
+#EXTINF:-1 tvg-id="W +1" tvg-name="W +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",W +1
+http://127.0.0.1/dummy/W_plus1
+#EXTINF:-1 tvg-id="W HD" tvg-name="W HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",W HD
+http://127.0.0.1/dummy/W_HD
+#EXTINF:-1 tvg-id="WildEarth" tvg-name="WildEarth" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",WildEarth
+http://127.0.0.1/dummy/WildEarth
+#EXTINF:-1 tvg-id="WION HD" tvg-name="WION HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",WION HD
+http://127.0.0.1/dummy/WION_HD
+#EXTINF:-1 tvg-id="Word Network" tvg-name="Word Network" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Word Network
+http://127.0.0.1/dummy/Word_Network
+#EXTINF:-1 tvg-id="Yanga!" tvg-name="Yanga!" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Yanga!
+http://127.0.0.1/dummy/Yanga!
+#EXTINF:-1 tvg-id="Yesterday" tvg-name="Yesterday" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Yesterday
+http://127.0.0.1/dummy/Yesterday
+#EXTINF:-1 tvg-id="Yesterday +1" tvg-name="Yesterday +1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Yesterday +1
+http://127.0.0.1/dummy/Yesterday_plus1
+#EXTINF:-1 tvg-id="Yesterday HD" tvg-name="Yesterday HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Documentaries",Yesterday HD
+http://127.0.0.1/dummy/Yesterday_HD
+#EXTINF:-1 tvg-id="Zee Cinema" tvg-name="Zee Cinema" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Zee Cinema
+http://127.0.0.1/dummy/Zee_Cinema
+#EXTINF:-1 tvg-id="Zee Cinema HD" tvg-name="Zee Cinema HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Movies",Zee Cinema HD
+http://127.0.0.1/dummy/Zee_Cinema_HD
+#EXTINF:-1 tvg-id="Zee TV" tvg-name="Zee TV" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="International",Zee TV
+http://127.0.0.1/dummy/Zee_TV
+#EXTINF:-1 tvg-id="Zee TV (BK)" tvg-name="Zee TV (BK)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="International",Zee TV (BK)
+http://127.0.0.1/dummy/Zee_TV_(BK)
+#EXTINF:-1 tvg-id="Zee TV HD" tvg-name="Zee TV HD" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="International",Zee TV HD
+http://127.0.0.1/dummy/Zee_TV_HD
+#EXTINF:-1 tvg-id="Zee TV HD (BK)" tvg-name="Zee TV HD (BK)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="International",Zee TV HD (BK)
+http://127.0.0.1/dummy/Zee_TV_HD_(BK)
+#EXTINF:-1 tvg-id="Zee Punjabi" tvg-name="Zee Punjabi" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="International",Zee Punjabi
+http://127.0.0.1/dummy/Zee_Punjabi
+#EXTINF:-1 tvg-id="95-106 Capital FM" tvg-name="95-106 Capital FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",95-106 Capital FM
+http://127.0.0.1/dummy/95-106_Capital_FM
+#EXTINF:-1 tvg-id="Absolute Radio" tvg-name="Absolute Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Absolute Radio
+http://127.0.0.1/dummy/Absolute_Radio
+#EXTINF:-1 tvg-id="BBC Asian Network" tvg-name="BBC Asian Network" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC Asian Network
+http://127.0.0.1/dummy/BBC_Asian_Network
+#EXTINF:-1 tvg-id="BBC Radio 1" tvg-name="BBC Radio 1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio 1
+http://127.0.0.1/dummy/BBC_Radio_1
+#EXTINF:-1 tvg-id="BBC Radio 1Xtra" tvg-name="BBC Radio 1Xtra" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio 1Xtra
+http://127.0.0.1/dummy/BBC_Radio_1Xtra
+#EXTINF:-1 tvg-id="BBC Radio 2" tvg-name="BBC Radio 2" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio 2
+http://127.0.0.1/dummy/BBC_Radio_2
+#EXTINF:-1 tvg-id="BBC Radio 3" tvg-name="BBC Radio 3" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio 3
+http://127.0.0.1/dummy/BBC_Radio_3
+#EXTINF:-1 tvg-id="BBC Radio 4 Extra" tvg-name="BBC Radio 4 Extra" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio 4 Extra
+http://127.0.0.1/dummy/BBC_Radio_4_Extra
+#EXTINF:-1 tvg-id="BBC Radio 4 FM" tvg-name="BBC Radio 4 FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio 4 FM
+http://127.0.0.1/dummy/BBC_Radio_4_FM
+#EXTINF:-1 tvg-id="BBC Radio 4 LW" tvg-name="BBC Radio 4 LW" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio 4 LW
+http://127.0.0.1/dummy/BBC_Radio_4_LW
+#EXTINF:-1 tvg-id="BBC Radio 5 live" tvg-name="BBC Radio 5 live" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio 5 live
+http://127.0.0.1/dummy/BBC_Radio_5_live
+#EXTINF:-1 tvg-id="BBC Radio 5 Sports Extra" tvg-name="BBC Radio 5 Sports Extra" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio 5 Sports Extra
+http://127.0.0.1/dummy/BBC_Radio_5_Sports_Extra
+#EXTINF:-1 tvg-id="BBC Radio 6 Music" tvg-name="BBC Radio 6 Music" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio 6 Music
+http://127.0.0.1/dummy/BBC_Radio_6_Music
+#EXTINF:-1 tvg-id="BBC Radio Foyle" tvg-name="BBC Radio Foyle" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Foyle
+http://127.0.0.1/dummy/BBC_Radio_Foyle
+#EXTINF:-1 tvg-id="BBC Radio Scotland FM" tvg-name="BBC Radio Scotland FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Scotland FM
+http://127.0.0.1/dummy/BBC_Radio_Scotland_FM
+#EXTINF:-1 tvg-id="BBC Radio Ulster" tvg-name="BBC Radio Ulster" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Ulster
+http://127.0.0.1/dummy/BBC_Radio_Ulster
+#EXTINF:-1 tvg-id="BBC Radio Wales" tvg-name="BBC Radio Wales" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Wales
+http://127.0.0.1/dummy/BBC_Radio_Wales
+#EXTINF:-1 tvg-id="BBC World Service" tvg-name="BBC World Service" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC World Service
+http://127.0.0.1/dummy/BBC_World_Service
+#EXTINF:-1 tvg-id="Classic FM" tvg-name="Classic FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Classic FM
+http://127.0.0.1/dummy/Classic_FM
+#EXTINF:-1 tvg-id="Heart London" tvg-name="Heart London" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Heart London
+http://127.0.0.1/dummy/Heart_London
+#EXTINF:-1 tvg-id="Magic 105.4" tvg-name="Magic 105.4" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Magic 105.4
+http://127.0.0.1/dummy/Magic_105.4
+#EXTINF:-1 tvg-id="Scala Radio" tvg-name="Scala Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Scala Radio
+http://127.0.0.1/dummy/Scala_Radio
+#EXTINF:-1 tvg-id="talkSPORT" tvg-name="talkSPORT" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",talkSPORT
+http://127.0.0.1/dummy/talkSPORT
+#EXTINF:-1 tvg-id="talkSPORT 2" tvg-name="talkSPORT 2" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",talkSPORT 2
+http://127.0.0.1/dummy/talkSPORT_2
+#EXTINF:-1 tvg-id="Virgin Radio" tvg-name="Virgin Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Virgin Radio
+http://127.0.0.1/dummy/Virgin_Radio
+#EXTINF:-1 tvg-id="95.8 Capital FM" tvg-name="95.8 Capital FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",95.8 Capital FM
+http://127.0.0.1/dummy/95.8_Capital_FM
+#EXTINF:-1 tvg-id="97.4/103.2 Capital FM" tvg-name="97.4/103.2 Capital FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",97.4/103.2 Capital FM
+http://127.0.0.1/dummy/97.4_103.2_Capital_FM
+#EXTINF:-1 tvg-id="99-107 Capital FM" tvg-name="99-107 Capital FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",99-107 Capital FM
+http://127.0.0.1/dummy/99-107_Capital_FM
+#EXTINF:-1 tvg-id="102.2 Capital FM" tvg-name="102.2 Capital FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",102.2 Capital FM
+http://127.0.0.1/dummy/102.2_Capital_FM
+#EXTINF:-1 tvg-id="103.1 Central FM" tvg-name="103.1 Central FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",103.1 Central FM
+http://127.0.0.1/dummy/103.1_Central_FM
+#EXTINF:-1 tvg-id="103.2 Capital FM" tvg-name="103.2 Capital FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",103.2 Capital FM
+http://127.0.0.1/dummy/103.2_Capital_FM
+#EXTINF:-1 tvg-id="105 Capital FM" tvg-name="105 Capital FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",105 Capital FM
+http://127.0.0.1/dummy/105_Capital_FM
+#EXTINF:-1 tvg-id="105-106 Capital FM Scotland" tvg-name="105-106 Capital FM Scotland" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",105-106 Capital FM Scotland
+http://127.0.0.1/dummy/105-106_Capital_FM_Scotland
+#EXTINF:-1 tvg-id="107.2 Capital FM" tvg-name="107.2 Capital FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",107.2 Capital FM
+http://127.0.0.1/dummy/107.2_Capital_FM
+#EXTINF:-1 tvg-id="107.6 Capital FM Liverpool" tvg-name="107.6 Capital FM Liverpool" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",107.6 Capital FM Liverpool
+http://127.0.0.1/dummy/107.6_Capital_FM_Liverpool
+#EXTINF:-1 tvg-id="Absolute Radio 80s" tvg-name="Absolute Radio 80s" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Absolute Radio 80s
+http://127.0.0.1/dummy/Absolute_Radio_80s
+#EXTINF:-1 tvg-id="Absolute Radio 90s" tvg-name="Absolute Radio 90s" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Absolute Radio 90s
+http://127.0.0.1/dummy/Absolute_Radio_90s
+#EXTINF:-1 tvg-id="Absolute Radio Classic Rock" tvg-name="Absolute Radio Classic Rock" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Absolute Radio Classic Rock
+http://127.0.0.1/dummy/Absolute_Radio_Classic_Rock
+#EXTINF:-1 tvg-id="Bay Radio" tvg-name="Bay Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Bay Radio
+http://127.0.0.1/dummy/Bay_Radio
+#EXTINF:-1 tvg-id="BBC CWR DAB" tvg-name="BBC CWR DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC CWR DAB
+http://127.0.0.1/dummy/BBC_CWR_DAB
+#EXTINF:-1 tvg-id="BBC CWR FM" tvg-name="BBC CWR FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC CWR FM
+http://127.0.0.1/dummy/BBC_CWR_FM
+#EXTINF:-1 tvg-id="BBC Essex 95.3FM" tvg-name="BBC Essex 95.3FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Essex 95.3FM
+http://127.0.0.1/dummy/BBC_Essex_95.3FM
+#EXTINF:-1 tvg-id="BBC Essex 103.5FM" tvg-name="BBC Essex 103.5FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Essex 103.5FM
+http://127.0.0.1/dummy/BBC_Essex_103.5FM
+#EXTINF:-1 tvg-id="BBC Essex DAB" tvg-name="BBC Essex DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC Essex DAB
+http://127.0.0.1/dummy/BBC_Essex_DAB
+#EXTINF:-1 tvg-id="BBC Hereford & Worcester 94.7FM" tvg-name="BBC Hereford & Worcester 94.7FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Hereford & Worcester 94.7FM
+http://127.0.0.1/dummy/BBC_Hereford_&_Worcester_94.7FM
+#EXTINF:-1 tvg-id="BBC Hereford & Worcester 104.6FM" tvg-name="BBC Hereford & Worcester 104.6FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Hereford & Worcester 104.6FM
+http://127.0.0.1/dummy/BBC_Hereford_&_Worcester_104.6FM
+#EXTINF:-1 tvg-id="BBC Hereford & Worcester 104FM" tvg-name="BBC Hereford & Worcester 104FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Hereford & Worcester 104FM
+http://127.0.0.1/dummy/BBC_Hereford_&_Worcester_104FM
+#EXTINF:-1 tvg-id="BBC Hereford & Worcester DAB" tvg-name="BBC Hereford & Worcester DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC Hereford & Worcester DAB
+http://127.0.0.1/dummy/BBC_Hereford_&_Worcester_DAB
+#EXTINF:-1 tvg-id="BBC Lincolnshire DAB" tvg-name="BBC Lincolnshire DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC Lincolnshire DAB
+http://127.0.0.1/dummy/BBC_Lincolnshire_DAB
+#EXTINF:-1 tvg-id="BBC Lincolnshire FM" tvg-name="BBC Lincolnshire FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Lincolnshire FM
+http://127.0.0.1/dummy/BBC_Lincolnshire_FM
+#EXTINF:-1 tvg-id="BBC Newcastle" tvg-name="BBC Newcastle" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC Newcastle
+http://127.0.0.1/dummy/BBC_Newcastle
+#EXTINF:-1 tvg-id="BBC Newcastle DAB" tvg-name="BBC Newcastle DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC Newcastle DAB
+http://127.0.0.1/dummy/BBC_Newcastle_DAB
+#EXTINF:-1 tvg-id="BBC Oxford DAB" tvg-name="BBC Oxford DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC Oxford DAB
+http://127.0.0.1/dummy/BBC_Oxford_DAB
+#EXTINF:-1 tvg-id="BBC Oxford FM" tvg-name="BBC Oxford FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Oxford FM
+http://127.0.0.1/dummy/BBC_Oxford_FM
+#EXTINF:-1 tvg-id="BBC Oxford MW" tvg-name="BBC Oxford MW" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC Oxford MW
+http://127.0.0.1/dummy/BBC_Oxford_MW
+#EXTINF:-1 tvg-id="BBC Radio Berkshire DAB" tvg-name="BBC Radio Berkshire DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Berkshire DAB
+http://127.0.0.1/dummy/BBC_Radio_Berkshire_DAB
+#EXTINF:-1 tvg-id="BBC Radio Berkshire FM" tvg-name="BBC Radio Berkshire FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Berkshire FM
+http://127.0.0.1/dummy/BBC_Radio_Berkshire_FM
+#EXTINF:-1 tvg-id="BBC Radio Bristol 94.9FM" tvg-name="BBC Radio Bristol 94.9FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Bristol 94.9FM
+http://127.0.0.1/dummy/BBC_Radio_Bristol_94.9FM
+#EXTINF:-1 tvg-id="BBC Radio Bristol 104.6FM" tvg-name="BBC Radio Bristol 104.6FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Bristol 104.6FM
+http://127.0.0.1/dummy/BBC_Radio_Bristol_104.6FM
+#EXTINF:-1 tvg-id="BBC Radio Bristol DAB" tvg-name="BBC Radio Bristol DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Bristol DAB
+http://127.0.0.1/dummy/BBC_Radio_Bristol_DAB
+#EXTINF:-1 tvg-id="BBC Radio Cambridgeshire 95.7FM" tvg-name="BBC Radio Cambridgeshire 95.7FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Cambridgeshire 95.7FM
+http://127.0.0.1/dummy/BBC_Radio_Cambridgeshire_95.7FM
+#EXTINF:-1 tvg-id="BBC Radio Cambridgeshire 96FM" tvg-name="BBC Radio Cambridgeshire 96FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Cambridgeshire 96FM
+http://127.0.0.1/dummy/BBC_Radio_Cambridgeshire_96FM
+#EXTINF:-1 tvg-id="BBC Radio Cambridgeshire DAB" tvg-name="BBC Radio Cambridgeshire DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Cambridgeshire DAB
+http://127.0.0.1/dummy/BBC_Radio_Cambridgeshire_DAB
+#EXTINF:-1 tvg-id="BBC Radio Cornwall DAB" tvg-name="BBC Radio Cornwall DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Cornwall DAB
+http://127.0.0.1/dummy/BBC_Radio_Cornwall_DAB
+#EXTINF:-1 tvg-id="BBC Radio Cornwall FM" tvg-name="BBC Radio Cornwall FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Cornwall FM
+http://127.0.0.1/dummy/BBC_Radio_Cornwall_FM
+#EXTINF:-1 tvg-id="BBC Radio Cumbria FM" tvg-name="BBC Radio Cumbria FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Cumbria FM
+http://127.0.0.1/dummy/BBC_Radio_Cumbria_FM
+#EXTINF:-1 tvg-id="BBC Radio Cumbria MW" tvg-name="BBC Radio Cumbria MW" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Cumbria MW
+http://127.0.0.1/dummy/BBC_Radio_Cumbria_MW
+#EXTINF:-1 tvg-id="BBC Radio Cymru" tvg-name="BBC Radio Cymru" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Cymru
+http://127.0.0.1/dummy/BBC_Radio_Cymru
+#EXTINF:-1 tvg-id="BBC Radio Cymru 2" tvg-name="BBC Radio Cymru 2" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Cymru 2
+http://127.0.0.1/dummy/BBC_Radio_Cymru_2
+#EXTINF:-1 tvg-id="BBC Radio Cymru DAB" tvg-name="BBC Radio Cymru DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Cymru DAB
+http://127.0.0.1/dummy/BBC_Radio_Cymru_DAB
+#EXTINF:-1 tvg-id="BBC Radio Cymru N Wales Cymru" tvg-name="BBC Radio Cymru N Wales Cymru" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Cymru N Wales Cymru
+http://127.0.0.1/dummy/BBC_Radio_Cymru_N_Wales_Cymru
+#EXTINF:-1 tvg-id="BBC Radio Cymru SW Wales Cymru" tvg-name="BBC Radio Cymru SW Wales Cymru" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Cymru SW Wales Cymru
+http://127.0.0.1/dummy/BBC_Radio_Cymru_SW_Wales_Cymru
+#EXTINF:-1 tvg-id="BBC Radio Derby FM" tvg-name="BBC Radio Derby FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Derby FM
+http://127.0.0.1/dummy/BBC_Radio_Derby_FM
+#EXTINF:-1 tvg-id="BBC Radio Derby MW" tvg-name="BBC Radio Derby MW" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Derby MW
+http://127.0.0.1/dummy/BBC_Radio_Derby_MW
+#EXTINF:-1 tvg-id="BBC Radio Devon 94.8FM" tvg-name="BBC Radio Devon 94.8FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Devon 94.8FM
+http://127.0.0.1/dummy/BBC_Radio_Devon_94.8FM
+#EXTINF:-1 tvg-id="BBC Radio Devon 95.7FM" tvg-name="BBC Radio Devon 95.7FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Devon 95.7FM
+http://127.0.0.1/dummy/BBC_Radio_Devon_95.7FM
+#EXTINF:-1 tvg-id="BBC Radio Devon 95.8FM" tvg-name="BBC Radio Devon 95.8FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Devon 95.8FM
+http://127.0.0.1/dummy/BBC_Radio_Devon_95.8FM
+#EXTINF:-1 tvg-id="BBC Radio Devon 96FM" tvg-name="BBC Radio Devon 96FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Devon 96FM
+http://127.0.0.1/dummy/BBC_Radio_Devon_96FM
+#EXTINF:-1 tvg-id="BBC Radio Devon 103.4FM" tvg-name="BBC Radio Devon 103.4FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Devon 103.4FM
+http://127.0.0.1/dummy/BBC_Radio_Devon_103.4FM
+#EXTINF:-1 tvg-id="BBC Radio Devon 104.3FM" tvg-name="BBC Radio Devon 104.3FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Devon 104.3FM
+http://127.0.0.1/dummy/BBC_Radio_Devon_104.3FM
+#EXTINF:-1 tvg-id="BBC Radio Devon DAB Countywide" tvg-name="BBC Radio Devon DAB Countywide" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Devon DAB Countywide
+http://127.0.0.1/dummy/BBC_Radio_Devon_DAB_Countywide
+#EXTINF:-1 tvg-id="BBC Radio Devon DAB Plymouth" tvg-name="BBC Radio Devon DAB Plymouth" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Devon DAB Plymouth
+http://127.0.0.1/dummy/BBC_Radio_Devon_DAB_Plymouth
+#EXTINF:-1 tvg-id="BBC Radio Gloucestershire DAB" tvg-name="BBC Radio Gloucestershire DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Gloucestershire DAB
+http://127.0.0.1/dummy/BBC_Radio_Gloucestershire_DAB
+#EXTINF:-1 tvg-id="BBC Radio Gloucestershire FM" tvg-name="BBC Radio Gloucestershire FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Gloucestershire FM
+http://127.0.0.1/dummy/BBC_Radio_Gloucestershire_FM
+#EXTINF:-1 tvg-id="BBC Radio Gloucestershire MW" tvg-name="BBC Radio Gloucestershire MW" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Gloucestershire MW
+http://127.0.0.1/dummy/BBC_Radio_Gloucestershire_MW
+#EXTINF:-1 tvg-id="BBC Radio Humberside DAB" tvg-name="BBC Radio Humberside DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Humberside DAB
+http://127.0.0.1/dummy/BBC_Radio_Humberside_DAB
+#EXTINF:-1 tvg-id="BBC Radio Humberside FM" tvg-name="BBC Radio Humberside FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Humberside FM
+http://127.0.0.1/dummy/BBC_Radio_Humberside_FM
+#EXTINF:-1 tvg-id="BBC Radio Jersey FM" tvg-name="BBC Radio Jersey FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Jersey FM
+http://127.0.0.1/dummy/BBC_Radio_Jersey_FM
+#EXTINF:-1 tvg-id="BBC Radio Jersey MW" tvg-name="BBC Radio Jersey MW" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Jersey MW
+http://127.0.0.1/dummy/BBC_Radio_Jersey_MW
+#EXTINF:-1 tvg-id="BBC Radio Kent DAB" tvg-name="BBC Radio Kent DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Kent DAB
+http://127.0.0.1/dummy/BBC_Radio_Kent_DAB
+#EXTINF:-1 tvg-id="BBC Radio Kent FM" tvg-name="BBC Radio Kent FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Kent FM
+http://127.0.0.1/dummy/BBC_Radio_Kent_FM
+#EXTINF:-1 tvg-id="BBC Radio Lancashire 95.5FM" tvg-name="BBC Radio Lancashire 95.5FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Lancashire 95.5FM
+http://127.0.0.1/dummy/BBC_Radio_Lancashire_95.5FM
+#EXTINF:-1 tvg-id="BBC Radio Lancashire 103.9FM" tvg-name="BBC Radio Lancashire 103.9FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Lancashire 103.9FM
+http://127.0.0.1/dummy/BBC_Radio_Lancashire_103.9FM
+#EXTINF:-1 tvg-id="BBC Radio Lancashire 104.5FM" tvg-name="BBC Radio Lancashire 104.5FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Lancashire 104.5FM
+http://127.0.0.1/dummy/BBC_Radio_Lancashire_104.5FM
+#EXTINF:-1 tvg-id="BBC Radio Lancashire DAB" tvg-name="BBC Radio Lancashire DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Lancashire DAB
+http://127.0.0.1/dummy/BBC_Radio_Lancashire_DAB
+#EXTINF:-1 tvg-id="BBC Radio Leeds FM" tvg-name="BBC Radio Leeds FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Leeds FM
+http://127.0.0.1/dummy/BBC_Radio_Leeds_FM
+#EXTINF:-1 tvg-id="BBC Radio Leicester DAB" tvg-name="BBC Radio Leicester DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Leicester DAB
+http://127.0.0.1/dummy/BBC_Radio_Leicester_DAB
+#EXTINF:-1 tvg-id="BBC Radio Leicester FM" tvg-name="BBC Radio Leicester FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Leicester FM
+http://127.0.0.1/dummy/BBC_Radio_Leicester_FM
+#EXTINF:-1 tvg-id="BBC Radio London" tvg-name="BBC Radio London" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio London
+http://127.0.0.1/dummy/BBC_Radio_London
+#EXTINF:-1 tvg-id="BBC Radio London DAB" tvg-name="BBC Radio London DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio London DAB
+http://127.0.0.1/dummy/BBC_Radio_London_DAB
+#EXTINF:-1 tvg-id="BBC Radio London Sky" tvg-name="BBC Radio London Sky" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio London Sky
+http://127.0.0.1/dummy/BBC_Radio_London_Sky
+#EXTINF:-1 tvg-id="BBC Radio Manchester DAB" tvg-name="BBC Radio Manchester DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Manchester DAB
+http://127.0.0.1/dummy/BBC_Radio_Manchester_DAB
+#EXTINF:-1 tvg-id="BBC Radio Manchester FM" tvg-name="BBC Radio Manchester FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Manchester FM
+http://127.0.0.1/dummy/BBC_Radio_Manchester_FM
+#EXTINF:-1 tvg-id="BBC Radio Merseyside DAB" tvg-name="BBC Radio Merseyside DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Merseyside DAB
+http://127.0.0.1/dummy/BBC_Radio_Merseyside_DAB
+#EXTINF:-1 tvg-id="BBC Radio Merseyside FM" tvg-name="BBC Radio Merseyside FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Merseyside FM
+http://127.0.0.1/dummy/BBC_Radio_Merseyside_FM
+#EXTINF:-1 tvg-id="BBC Radio Nan Gàidheal" tvg-name="BBC Radio Nan Gàidheal" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Nan Gàidheal
+http://127.0.0.1/dummy/BBC_Radio_Nan_Gàidheal
+#EXTINF:-1 tvg-id="BBC Radio Norfolk FM" tvg-name="BBC Radio Norfolk FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Norfolk FM
+http://127.0.0.1/dummy/BBC_Radio_Norfolk_FM
+#EXTINF:-1 tvg-id="BBC Radio Northampton DAB" tvg-name="BBC Radio Northampton DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Northampton DAB
+http://127.0.0.1/dummy/BBC_Radio_Northampton_DAB
+#EXTINF:-1 tvg-id="BBC Radio Northampton FM" tvg-name="BBC Radio Northampton FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Northampton FM
+http://127.0.0.1/dummy/BBC_Radio_Northampton_FM
+#EXTINF:-1 tvg-id="BBC Radio Nottingham" tvg-name="BBC Radio Nottingham" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Nottingham
+http://127.0.0.1/dummy/BBC_Radio_Nottingham
+#EXTINF:-1 tvg-id="BBC Radio Nottingham 95.5FM" tvg-name="BBC Radio Nottingham 95.5FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Nottingham 95.5FM
+http://127.0.0.1/dummy/BBC_Radio_Nottingham_95.5FM
+#EXTINF:-1 tvg-id="BBC Radio Nottingham 103.8FM" tvg-name="BBC Radio Nottingham 103.8FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Nottingham 103.8FM
+http://127.0.0.1/dummy/BBC_Radio_Nottingham_103.8FM
+#EXTINF:-1 tvg-id="BBC Radio Orkney" tvg-name="BBC Radio Orkney" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Orkney
+http://127.0.0.1/dummy/BBC_Radio_Orkney
+#EXTINF:-1 tvg-id="BBC Radio Orkney MW" tvg-name="BBC Radio Orkney MW" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Orkney MW
+http://127.0.0.1/dummy/BBC_Radio_Orkney_MW
+#EXTINF:-1 tvg-id="BBC Radio Scotland Extra" tvg-name="BBC Radio Scotland Extra" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Scotland Extra
+http://127.0.0.1/dummy/BBC_Radio_Scotland_Extra
+#EXTINF:-1 tvg-id="BBC Radio Sheffield DAB" tvg-name="BBC Radio Sheffield DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Sheffield DAB
+http://127.0.0.1/dummy/BBC_Radio_Sheffield_DAB
+#EXTINF:-1 tvg-id="BBC Radio Sheffield FM" tvg-name="BBC Radio Sheffield FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Sheffield FM
+http://127.0.0.1/dummy/BBC_Radio_Sheffield_FM
+#EXTINF:-1 tvg-id="BBC Radio Shetland" tvg-name="BBC Radio Shetland" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Shetland
+http://127.0.0.1/dummy/BBC_Radio_Shetland
+#EXTINF:-1 tvg-id="BBC Radio Shetland MW" tvg-name="BBC Radio Shetland MW" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Shetland MW
+http://127.0.0.1/dummy/BBC_Radio_Shetland_MW
+#EXTINF:-1 tvg-id="BBC Radio Shropshire DAB" tvg-name="BBC Radio Shropshire DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Shropshire DAB
+http://127.0.0.1/dummy/BBC_Radio_Shropshire_DAB
+#EXTINF:-1 tvg-id="BBC Radio Shropshire FM" tvg-name="BBC Radio Shropshire FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Shropshire FM
+http://127.0.0.1/dummy/BBC_Radio_Shropshire_FM
+#EXTINF:-1 tvg-id="BBC Radio Solent 96.1FM" tvg-name="BBC Radio Solent 96.1FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Solent 96.1FM
+http://127.0.0.1/dummy/BBC_Radio_Solent_96.1FM
+#EXTINF:-1 tvg-id="BBC Radio Solent 103.8FM" tvg-name="BBC Radio Solent 103.8FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Solent 103.8FM
+http://127.0.0.1/dummy/BBC_Radio_Solent_103.8FM
+#EXTINF:-1 tvg-id="BBC Radio Solent Dorset DAB" tvg-name="BBC Radio Solent Dorset DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Solent Dorset DAB
+http://127.0.0.1/dummy/BBC_Radio_Solent_Dorset_DAB
+#EXTINF:-1 tvg-id="BBC Radio Solent Hampshire DAB" tvg-name="BBC Radio Solent Hampshire DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Solent Hampshire DAB
+http://127.0.0.1/dummy/BBC_Radio_Solent_Hampshire_DAB
+#EXTINF:-1 tvg-id="BBC Radio Stoke DAB" tvg-name="BBC Radio Stoke DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Stoke DAB
+http://127.0.0.1/dummy/BBC_Radio_Stoke_DAB
+#EXTINF:-1 tvg-id="BBC Radio Stoke FM" tvg-name="BBC Radio Stoke FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Stoke FM
+http://127.0.0.1/dummy/BBC_Radio_Stoke_FM
+#EXTINF:-1 tvg-id="BBC Radio Suffolk FM" tvg-name="BBC Radio Suffolk FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Suffolk FM
+http://127.0.0.1/dummy/BBC_Radio_Suffolk_FM
+#EXTINF:-1 tvg-id="BBC Radio Suffolk MW" tvg-name="BBC Radio Suffolk MW" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Suffolk MW
+http://127.0.0.1/dummy/BBC_Radio_Suffolk_MW
+#EXTINF:-1 tvg-id="BBC Radio Surrey" tvg-name="BBC Radio Surrey" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Surrey
+http://127.0.0.1/dummy/BBC_Radio_Surrey
+#EXTINF:-1 tvg-id="BBC Radio Sussex" tvg-name="BBC Radio Sussex" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Sussex
+http://127.0.0.1/dummy/BBC_Radio_Sussex
+#EXTINF:-1 tvg-id="BBC Radio Wales Cardiff FM" tvg-name="BBC Radio Wales Cardiff FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Wales Cardiff FM
+http://127.0.0.1/dummy/BBC_Radio_Wales_Cardiff_FM
+#EXTINF:-1 tvg-id="BBC Radio Wales North FM" tvg-name="BBC Radio Wales North FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Wales North FM
+http://127.0.0.1/dummy/BBC_Radio_Wales_North_FM
+#EXTINF:-1 tvg-id="BBC Radio Wales South East FM" tvg-name="BBC Radio Wales South East FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Wales South East FM
+http://127.0.0.1/dummy/BBC_Radio_Wales_South_East_FM
+#EXTINF:-1 tvg-id="BBC Radio Wales South FM" tvg-name="BBC Radio Wales South FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Wales South FM
+http://127.0.0.1/dummy/BBC_Radio_Wales_South_FM
+#EXTINF:-1 tvg-id="BBC Radio Wales South West FM" tvg-name="BBC Radio Wales South West FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Wales South West FM
+http://127.0.0.1/dummy/BBC_Radio_Wales_South_West_FM
+#EXTINF:-1 tvg-id="BBC Radio Wales Swansea FM" tvg-name="BBC Radio Wales Swansea FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Wales Swansea FM
+http://127.0.0.1/dummy/BBC_Radio_Wales_Swansea_FM
+#EXTINF:-1 tvg-id="BBC Radio Wiltshire DAB" tvg-name="BBC Radio Wiltshire DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Wiltshire DAB
+http://127.0.0.1/dummy/BBC_Radio_Wiltshire_DAB
+#EXTINF:-1 tvg-id="BBC Radio Wiltshire FM" tvg-name="BBC Radio Wiltshire FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio Wiltshire FM
+http://127.0.0.1/dummy/BBC_Radio_Wiltshire_FM
+#EXTINF:-1 tvg-id="BBC Radio WM DAB" tvg-name="BBC Radio WM DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio WM DAB
+http://127.0.0.1/dummy/BBC_Radio_WM_DAB
+#EXTINF:-1 tvg-id="BBC Radio WM FM" tvg-name="BBC Radio WM FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio WM FM
+http://127.0.0.1/dummy/BBC_Radio_WM_FM
+#EXTINF:-1 tvg-id="BBC Radio York DAB" tvg-name="BBC Radio York DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio York DAB
+http://127.0.0.1/dummy/BBC_Radio_York_DAB
+#EXTINF:-1 tvg-id="BBC Radio York FM" tvg-name="BBC Radio York FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Radio York FM
+http://127.0.0.1/dummy/BBC_Radio_York_FM
+#EXTINF:-1 tvg-id="BBC Three Counties Radio 90.4/92.1/94.7/103.8FM" tvg-name="BBC Three Counties Radio 90.4/92.1/94.7/103.8FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Three Counties Radio 90.4/92.1/94.7/103.8FM
+http://127.0.0.1/dummy/BBC_Three_Counties_Radio_90.4_92.1_94.7_103.8FM
+#EXTINF:-1 tvg-id="BBC Three Counties Radio 95.5FM" tvg-name="BBC Three Counties Radio 95.5FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Three Counties Radio 95.5FM
+http://127.0.0.1/dummy/BBC_Three_Counties_Radio_95.5FM
+#EXTINF:-1 tvg-id="BBC Three Counties Radio 98FM" tvg-name="BBC Three Counties Radio 98FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Three Counties Radio 98FM
+http://127.0.0.1/dummy/BBC_Three_Counties_Radio_98FM
+#EXTINF:-1 tvg-id="BBC Three Counties Radio 104.5FM" tvg-name="BBC Three Counties Radio 104.5FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Three Counties Radio 104.5FM
+http://127.0.0.1/dummy/BBC_Three_Counties_Radio_104.5FM
+#EXTINF:-1 tvg-id="BBC Three Counties Radio DAB" tvg-name="BBC Three Counties Radio DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BBC Three Counties Radio DAB
+http://127.0.0.1/dummy/BBC_Three_Counties_Radio_DAB
+#EXTINF:-1 tvg-id="BBC World Service Europe" tvg-name="BBC World Service Europe" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",BBC World Service Europe
+http://127.0.0.1/dummy/BBC_World_Service_Europe
+#EXTINF:-1 tvg-id="BCB 106.6FM" tvg-name="BCB 106.6FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BCB 106.6FM
+http://127.0.0.1/dummy/BCB_106.6FM
+#EXTINF:-1 tvg-id="BFBS Radio" tvg-name="BFBS Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",BFBS Radio
+http://127.0.0.1/dummy/BFBS_Radio
+#EXTINF:-1 tvg-id="Blackburn Hospital Radio" tvg-name="Blackburn Hospital Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Blackburn Hospital Radio
+http://127.0.0.1/dummy/Blackburn_Hospital_Radio
+#EXTINF:-1 tvg-id="Boom Radio" tvg-name="Boom Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Boom Radio
+http://127.0.0.1/dummy/Boom_Radio
+#EXTINF:-1 tvg-id="C102 North Cork" tvg-name="C102 North Cork" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",C102 North Cork
+http://127.0.0.1/dummy/C102_North_Cork
+#EXTINF:-1 tvg-id="C103" tvg-name="C103" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",C103
+http://127.0.0.1/dummy/C103
+#EXTINF:-1 tvg-id="Cannock Chase Radio" tvg-name="Cannock Chase Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Cannock Chase Radio
+http://127.0.0.1/dummy/Cannock_Chase_Radio
+#EXTINF:-1 tvg-id="Capital XTRA" tvg-name="Capital XTRA" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Capital XTRA
+http://127.0.0.1/dummy/Capital_XTRA
+#EXTINF:-1 tvg-id="Channel 103" tvg-name="Channel 103" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Channel 103
+http://127.0.0.1/dummy/Channel_103
+#EXTINF:-1 tvg-id="Choice" tvg-name="Choice" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Choice
+http://127.0.0.1/dummy/Choice
+#EXTINF:-1 tvg-id="Clare FM" tvg-name="Clare FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Clare FM
+http://127.0.0.1/dummy/Clare_FM
+#EXTINF:-1 tvg-id="Clyde 1" tvg-name="Clyde 1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Clyde 1
+http://127.0.0.1/dummy/Clyde_1
+#EXTINF:-1 tvg-id="Coastline FM" tvg-name="Coastline FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Coastline FM
+http://127.0.0.1/dummy/Coastline_FM
+#EXTINF:-1 tvg-id="Cool FM" tvg-name="Cool FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Cool FM
+http://127.0.0.1/dummy/Cool_FM
+#EXTINF:-1 tvg-id="Cork's 96FM" tvg-name="Cork's 96FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Cork's 96FM
+http://127.0.0.1/dummy/Cork's_96FM
+#EXTINF:-1 tvg-id="CRC 102.9" tvg-name="CRC 102.9" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",CRC 102.9
+http://127.0.0.1/dummy/CRC_102.9
+#EXTINF:-1 tvg-id="CUH FM" tvg-name="CUH FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",CUH FM
+http://127.0.0.1/dummy/CUH_FM
+#EXTINF:-1 tvg-id="Downtown Radio" tvg-name="Downtown Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Downtown Radio
+http://127.0.0.1/dummy/Downtown_Radio
+#EXTINF:-1 tvg-id="Dublin's 98FM" tvg-name="Dublin's 98FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Dublin's 98FM
+http://127.0.0.1/dummy/Dublin's_98FM
+#EXTINF:-1 tvg-id="Dublin's Q102" tvg-name="Dublin's Q102" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Dublin's Q102
+http://127.0.0.1/dummy/Dublin's_Q102
+#EXTINF:-1 tvg-id="East Coast FM" tvg-name="East Coast FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",East Coast FM
+http://127.0.0.1/dummy/East_Coast_FM
+#EXTINF:-1 tvg-id="EWTN Catholic Radio" tvg-name="EWTN Catholic Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",EWTN Catholic Radio
+http://127.0.0.1/dummy/EWTN_Catholic_Radio
+#EXTINF:-1 tvg-id="FM104" tvg-name="FM104" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",FM104
+http://127.0.0.1/dummy/FM104
+#EXTINF:-1 tvg-id="Forest FM" tvg-name="Forest FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Forest FM
+http://127.0.0.1/dummy/Forest_FM
+#EXTINF:-1 tvg-id="Forth 1" tvg-name="Forth 1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Forth 1
+http://127.0.0.1/dummy/Forth_1
+#EXTINF:-1 tvg-id="Free Radio Birmingham" tvg-name="Free Radio Birmingham" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Free Radio Birmingham
+http://127.0.0.1/dummy/Free_Radio_Birmingham
+#EXTINF:-1 tvg-id="Free Radio Coventry & Warwickshire" tvg-name="Free Radio Coventry & Warwickshire" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Free Radio Coventry & Warwickshire
+http://127.0.0.1/dummy/Free_Radio_Coventry_&_Warwickshire
+#EXTINF:-1 tvg-id="Free Radio Hereford & Worcestershire" tvg-name="Free Radio Hereford & Worcestershire" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Free Radio Hereford & Worcestershire
+http://127.0.0.1/dummy/Free_Radio_Hereford_&_Worcestershire
+#EXTINF:-1 tvg-id="Free Radio Shropshire & Black Country 97.2" tvg-name="Free Radio Shropshire & Black Country 97.2" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Free Radio Shropshire & Black Country 97.2
+http://127.0.0.1/dummy/Free_Radio_Shropshire_&_Black_Country_97.2
+#EXTINF:-1 tvg-id="Free Radio Shropshire & Black Country 103.1" tvg-name="Free Radio Shropshire & Black Country 103.1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Free Radio Shropshire & Black Country 103.1
+http://127.0.0.1/dummy/Free_Radio_Shropshire_&_Black_Country_103.1
+#EXTINF:-1 tvg-id="Fun Kids" tvg-name="Fun Kids" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Kids",Fun Kids
+http://127.0.0.1/dummy/Fun_Kids
+#EXTINF:-1 tvg-id="future radio" tvg-name="future radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",future radio
+http://127.0.0.1/dummy/future_radio
+#EXTINF:-1 tvg-id="Galway Bay FM 95.8" tvg-name="Galway Bay FM 95.8" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Galway Bay FM 95.8
+http://127.0.0.1/dummy/Galway_Bay_FM_95.8
+#EXTINF:-1 tvg-id="Gem 106" tvg-name="Gem 106" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Gem 106
+http://127.0.0.1/dummy/Gem_106
+#EXTINF:-1 tvg-id="Gold" tvg-name="Gold" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Gold
+http://127.0.0.1/dummy/Gold
+#EXTINF:-1 tvg-id="Grampian Hospital Radio" tvg-name="Grampian Hospital Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Grampian Hospital Radio
+http://127.0.0.1/dummy/Grampian_Hospital_Radio
+#EXTINF:-1 tvg-id="Greatest Hits Radio" tvg-name="Greatest Hits Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Greatest Hits Radio
+http://127.0.0.1/dummy/Greatest_Hits_Radio
+#EXTINF:-1 tvg-id="Greatest Hits Radio (Ayrshire)" tvg-name="Greatest Hits Radio (Ayrshire)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Greatest Hits Radio (Ayrshire)
+http://127.0.0.1/dummy/Greatest_Hits_Radio_(Ayrshire)
+#EXTINF:-1 tvg-id="Greatest Hits Radio (Cumbria)" tvg-name="Greatest Hits Radio (Cumbria)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Greatest Hits Radio (Cumbria)
+http://127.0.0.1/dummy/Greatest_Hits_Radio_(Cumbria)
+#EXTINF:-1 tvg-id="Greatest Hits Radio (Dorset)" tvg-name="Greatest Hits Radio (Dorset)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Greatest Hits Radio (Dorset)
+http://127.0.0.1/dummy/Greatest_Hits_Radio_(Dorset)
+#EXTINF:-1 tvg-id="Greatest Hits Radio (Dumfries & Galloway)" tvg-name="Greatest Hits Radio (Dumfries & Galloway)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Greatest Hits Radio (Dumfries & Galloway)
+http://127.0.0.1/dummy/Greatest_Hits_Radio_(Dumfries_&_Galloway)
+#EXTINF:-1 tvg-id="Greatest Hits Radio (Edinburgh, the Lothians, Fife & Falkirk)" tvg-name="Greatest Hits Radio (Edinburgh, the Lothians, Fife & Falkirk)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Greatest Hits Radio (Edinburgh, the Lothians, Fife & Falkirk)
+http://127.0.0.1/dummy/Greatest_Hits_Radio_(Edinburgh,_the_Lothians,_Fife_&_Falkirk)
+#EXTINF:-1 tvg-id="Greatest Hits Radio (Glasgow & the West)" tvg-name="Greatest Hits Radio (Glasgow & the West)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Greatest Hits Radio (Glasgow & the West)
+http://127.0.0.1/dummy/Greatest_Hits_Radio_(Glasgow_&_the_West)
+#EXTINF:-1 tvg-id="Greatest Hits Radio (Greater Manchester)" tvg-name="Greatest Hits Radio (Greater Manchester)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Greatest Hits Radio (Greater Manchester)
+http://127.0.0.1/dummy/Greatest_Hits_Radio_(Greater_Manchester)
+#EXTINF:-1 tvg-id="Greatest Hits Radio (Lancashire)" tvg-name="Greatest Hits Radio (Lancashire)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Greatest Hits Radio (Lancashire)
+http://127.0.0.1/dummy/Greatest_Hits_Radio_(Lancashire)
+#EXTINF:-1 tvg-id="Greatest Hits Radio (Norfolk & North Suffolk)" tvg-name="Greatest Hits Radio (Norfolk & North Suffolk)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Greatest Hits Radio (Norfolk & North Suffolk)
+http://127.0.0.1/dummy/Greatest_Hits_Radio_(Norfolk_&_North_Suffolk)
+#EXTINF:-1 tvg-id="Greatest Hits Radio (North East Scotland)" tvg-name="Greatest Hits Radio (North East Scotland)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Greatest Hits Radio (North East Scotland)
+http://127.0.0.1/dummy/Greatest_Hits_Radio_(North_East_Scotland)
+#EXTINF:-1 tvg-id="Greatest Hits Radio (Northamptonshire)" tvg-name="Greatest Hits Radio (Northamptonshire)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Greatest Hits Radio (Northamptonshire)
+http://127.0.0.1/dummy/Greatest_Hits_Radio_(Northamptonshire)
+#EXTINF:-1 tvg-id="Greatest Hits Radio (Oxfordshire)" tvg-name="Greatest Hits Radio (Oxfordshire)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Greatest Hits Radio (Oxfordshire)
+http://127.0.0.1/dummy/Greatest_Hits_Radio_(Oxfordshire)
+#EXTINF:-1 tvg-id="Greatest Hits Radio (Radio Borders)" tvg-name="Greatest Hits Radio (Radio Borders)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Greatest Hits Radio (Radio Borders)
+http://127.0.0.1/dummy/Greatest_Hits_Radio_(Radio_Borders)
+#EXTINF:-1 tvg-id="Greatest Hits Radio (Shropshire & the Black Country)" tvg-name="Greatest Hits Radio (Shropshire & the Black Country)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Greatest Hits Radio (Shropshire & the Black Country)
+http://127.0.0.1/dummy/Greatest_Hits_Radio_(Shropshire_&_the_Black_Country)
+#EXTINF:-1 tvg-id="Greatest Hits Radio (South Wales)" tvg-name="Greatest Hits Radio (South Wales)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Greatest Hits Radio (South Wales)
+http://127.0.0.1/dummy/Greatest_Hits_Radio_(South_Wales)
+#EXTINF:-1 tvg-id="Greatest Hits Radio (Suffolk)" tvg-name="Greatest Hits Radio (Suffolk)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Greatest Hits Radio (Suffolk)
+http://127.0.0.1/dummy/Greatest_Hits_Radio_(Suffolk)
+#EXTINF:-1 tvg-id="Greatest Hits Radio (Tayside & Fife)" tvg-name="Greatest Hits Radio (Tayside & Fife)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Greatest Hits Radio (Tayside & Fife)
+http://127.0.0.1/dummy/Greatest_Hits_Radio_(Tayside_&_Fife)
+#EXTINF:-1 tvg-id="Greatest Hits Radio (Teesside)" tvg-name="Greatest Hits Radio (Teesside)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Greatest Hits Radio (Teesside)
+http://127.0.0.1/dummy/Greatest_Hits_Radio_(Teesside)
+#EXTINF:-1 tvg-id="Greatest Hits Radio (The North Of Scotland)" tvg-name="Greatest Hits Radio (The North Of Scotland)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Greatest Hits Radio (The North Of Scotland)
+http://127.0.0.1/dummy/Greatest_Hits_Radio_(The_North_Of_Scotland)
+#EXTINF:-1 tvg-id="Greatest Hits Radio (West Norfolk)" tvg-name="Greatest Hits Radio (West Norfolk)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Greatest Hits Radio (West Norfolk)
+http://127.0.0.1/dummy/Greatest_Hits_Radio_(West_Norfolk)
+#EXTINF:-1 tvg-id="Greatest Hits Radio (West Sussex)" tvg-name="Greatest Hits Radio (West Sussex)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Greatest Hits Radio (West Sussex)
+http://127.0.0.1/dummy/Greatest_Hits_Radio_(West_Sussex)
+#EXTINF:-1 tvg-id="Greatest Hits Radio (West Yorkshire)" tvg-name="Greatest Hits Radio (West Yorkshire)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Greatest Hits Radio (West Yorkshire)
+http://127.0.0.1/dummy/Greatest_Hits_Radio_(West_Yorkshire)
+#EXTINF:-1 tvg-id="Greatest Hits Radio (York and North Yorkshire)" tvg-name="Greatest Hits Radio (York and North Yorkshire)" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Greatest Hits Radio (York and North Yorkshire)
+http://127.0.0.1/dummy/Greatest_Hits_Radio_(York_and_North_Yorkshire)
+#EXTINF:-1 tvg-id="Hallam FM" tvg-name="Hallam FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Hallam FM
+http://127.0.0.1/dummy/Hallam_FM
+#EXTINF:-1 tvg-id="Heart 80s" tvg-name="Heart 80s" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Heart 80s
+http://127.0.0.1/dummy/Heart_80s
+#EXTINF:-1 tvg-id="Heart 90s" tvg-name="Heart 90s" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Heart 90s
+http://127.0.0.1/dummy/Heart_90s
+#EXTINF:-1 tvg-id="Heart Cambridgeshire" tvg-name="Heart Cambridgeshire" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Heart Cambridgeshire
+http://127.0.0.1/dummy/Heart_Cambridgeshire
+#EXTINF:-1 tvg-id="Heart Dance" tvg-name="Heart Dance" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Heart Dance
+http://127.0.0.1/dummy/Heart_Dance
+#EXTINF:-1 tvg-id="Heart Devon" tvg-name="Heart Devon" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Heart Devon
+http://127.0.0.1/dummy/Heart_Devon
+#EXTINF:-1 tvg-id="Heart East Anglia" tvg-name="Heart East Anglia" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Heart East Anglia
+http://127.0.0.1/dummy/Heart_East_Anglia
+#EXTINF:-1 tvg-id="Heart Essex" tvg-name="Heart Essex" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Heart Essex
+http://127.0.0.1/dummy/Heart_Essex
+#EXTINF:-1 tvg-id="Heart Kent" tvg-name="Heart Kent" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Heart Kent
+http://127.0.0.1/dummy/Heart_Kent
+#EXTINF:-1 tvg-id="Heart North East" tvg-name="Heart North East" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Heart North East
+http://127.0.0.1/dummy/Heart_North_East
+#EXTINF:-1 tvg-id="Heart North West" tvg-name="Heart North West" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Heart North West
+http://127.0.0.1/dummy/Heart_North_West
+#EXTINF:-1 tvg-id="Heart North West and Wales" tvg-name="Heart North West and Wales" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Heart North West and Wales
+http://127.0.0.1/dummy/Heart_North_West_and_Wales
+#EXTINF:-1 tvg-id="Heart Scotland" tvg-name="Heart Scotland" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Heart Scotland
+http://127.0.0.1/dummy/Heart_Scotland
+#EXTINF:-1 tvg-id="Heart South Coast" tvg-name="Heart South Coast" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Heart South Coast
+http://127.0.0.1/dummy/Heart_South_Coast
+#EXTINF:-1 tvg-id="Heart South Wales" tvg-name="Heart South Wales" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Heart South Wales
+http://127.0.0.1/dummy/Heart_South_Wales
+#EXTINF:-1 tvg-id="Heart Sussex" tvg-name="Heart Sussex" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Heart Sussex
+http://127.0.0.1/dummy/Heart_Sussex
+#EXTINF:-1 tvg-id="Heart Thames Valley" tvg-name="Heart Thames Valley" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Heart Thames Valley
+http://127.0.0.1/dummy/Heart_Thames_Valley
+#EXTINF:-1 tvg-id="Heart West Midlands" tvg-name="Heart West Midlands" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Heart West Midlands
+http://127.0.0.1/dummy/Heart_West_Midlands
+#EXTINF:-1 tvg-id="Heart Wiltshire" tvg-name="Heart Wiltshire" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Heart Wiltshire
+http://127.0.0.1/dummy/Heart_Wiltshire
+#EXTINF:-1 tvg-id="Heart Yorkshire" tvg-name="Heart Yorkshire" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Heart Yorkshire
+http://127.0.0.1/dummy/Heart_Yorkshire
+#EXTINF:-1 tvg-id="Heartland FM" tvg-name="Heartland FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Heartland FM
+http://127.0.0.1/dummy/Heartland_FM
+#EXTINF:-1 tvg-id="Heat" tvg-name="Heat" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Heat
+http://127.0.0.1/dummy/Heat
+#EXTINF:-1 tvg-id="Highland Radio" tvg-name="Highland Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Highland Radio
+http://127.0.0.1/dummy/Highland_Radio
+#EXTINF:-1 tvg-id="Hits Radio" tvg-name="Hits Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Hits Radio
+http://127.0.0.1/dummy/Hits_Radio
+#EXTINF:-1 tvg-id="Hits Radio Bournemouth and Poole" tvg-name="Hits Radio Bournemouth and Poole" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Hits Radio Bournemouth and Poole
+http://127.0.0.1/dummy/Hits_Radio_Bournemouth_and_Poole
+#EXTINF:-1 tvg-id="Hits Radio Manchester" tvg-name="Hits Radio Manchester" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Hits Radio Manchester
+http://127.0.0.1/dummy/Hits_Radio_Manchester
+#EXTINF:-1 tvg-id="Hits Radio Oxfordshire" tvg-name="Hits Radio Oxfordshire" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Hits Radio Oxfordshire
+http://127.0.0.1/dummy/Hits_Radio_Oxfordshire
+#EXTINF:-1 tvg-id="Hope FM" tvg-name="Hope FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Hope FM
+http://127.0.0.1/dummy/Hope_FM
+#EXTINF:-1 tvg-id="Hospital Radio Bedside" tvg-name="Hospital Radio Bedside" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Hospital Radio Bedside
+http://127.0.0.1/dummy/Hospital_Radio_Bedside
+#EXTINF:-1 tvg-id="Hot Radio" tvg-name="Hot Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Hot Radio
+http://127.0.0.1/dummy/Hot_Radio
+#EXTINF:-1 tvg-id="Inverness Hospital Radio" tvg-name="Inverness Hospital Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Inverness Hospital Radio
+http://127.0.0.1/dummy/Inverness_Hospital_Radio
+#EXTINF:-1 tvg-id="Ipswich Community Radio" tvg-name="Ipswich Community Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Ipswich Community Radio
+http://127.0.0.1/dummy/Ipswich_Community_Radio
+#EXTINF:-1 tvg-id="Ireland's Classic Hits" tvg-name="Ireland's Classic Hits" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Ireland's Classic Hits
+http://127.0.0.1/dummy/Ireland's_Classic_Hits
+#EXTINF:-1 tvg-id="Island FM" tvg-name="Island FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Island FM
+http://127.0.0.1/dummy/Island_FM
+#EXTINF:-1 tvg-id="Isle of Wight Radio" tvg-name="Isle of Wight Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Isle of Wight Radio
+http://127.0.0.1/dummy/Isle_of_Wight_Radio
+#EXTINF:-1 tvg-id="Jazz FM" tvg-name="Jazz FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Jazz FM
+http://127.0.0.1/dummy/Jazz_FM
+#EXTINF:-1 tvg-id="KCLR FM" tvg-name="KCLR FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",KCLR FM
+http://127.0.0.1/dummy/KCLR_FM
+#EXTINF:-1 tvg-id="Kerrang!" tvg-name="Kerrang!" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Music",Kerrang!
+http://127.0.0.1/dummy/Kerrang!
+#EXTINF:-1 tvg-id="KFM" tvg-name="KFM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",KFM
+http://127.0.0.1/dummy/KFM
+#EXTINF:-1 tvg-id="Khushkhabri" tvg-name="Khushkhabri" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Khushkhabri
+http://127.0.0.1/dummy/Khushkhabri
+#EXTINF:-1 tvg-id="Kingdom FM" tvg-name="Kingdom FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Kingdom FM
+http://127.0.0.1/dummy/Kingdom_FM
+#EXTINF:-1 tvg-id="Kiss 100" tvg-name="Kiss 100" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Kiss 100
+http://127.0.0.1/dummy/Kiss_100
+#EXTINF:-1 tvg-id="Kiss 105-108" tvg-name="Kiss 105-108" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Kiss 105-108
+http://127.0.0.1/dummy/Kiss_105-108
+#EXTINF:-1 tvg-id="LBC" tvg-name="LBC" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",LBC
+http://127.0.0.1/dummy/LBC
+#EXTINF:-1 tvg-id="LBC News" tvg-name="LBC News" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="News",LBC News
+http://127.0.0.1/dummy/LBC_News
+#EXTINF:-1 tvg-id="Life FM" tvg-name="Life FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Life FM
+http://127.0.0.1/dummy/Life_FM
+#EXTINF:-1 tvg-id="Lincs FM" tvg-name="Lincs FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Lincs FM
+http://127.0.0.1/dummy/Lincs_FM
+#EXTINF:-1 tvg-id="Live 95FM" tvg-name="Live 95FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Live 95FM
+http://127.0.0.1/dummy/Live_95FM
+#EXTINF:-1 tvg-id="LMFM" tvg-name="LMFM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",LMFM
+http://127.0.0.1/dummy/LMFM
+#EXTINF:-1 tvg-id="Metro Radio" tvg-name="Metro Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Metro Radio
+http://127.0.0.1/dummy/Metro_Radio
+#EXTINF:-1 tvg-id="Mid & North West FM" tvg-name="Mid & North West FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Mid & North West FM
+http://127.0.0.1/dummy/Mid_&_North_West_FM
+#EXTINF:-1 tvg-id="Midlands 103" tvg-name="Midlands 103" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Midlands 103
+http://127.0.0.1/dummy/Midlands_103
+#EXTINF:-1 tvg-id="More Radio Mid Sussex" tvg-name="More Radio Mid Sussex" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",More Radio Mid Sussex
+http://127.0.0.1/dummy/More_Radio_Mid_Sussex
+#EXTINF:-1 tvg-id="Newport City Radio" tvg-name="Newport City Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Newport City Radio
+http://127.0.0.1/dummy/Newport_City_Radio
+#EXTINF:-1 tvg-id="Newstalk 106-108 FM" tvg-name="Newstalk 106-108 FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Newstalk 106-108 FM
+http://127.0.0.1/dummy/Newstalk_106-108_FM
+#EXTINF:-1 tvg-id="Northern Sound" tvg-name="Northern Sound" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Northern Sound
+http://127.0.0.1/dummy/Northern_Sound
+#EXTINF:-1 tvg-id="Northsound 1" tvg-name="Northsound 1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Northsound 1
+http://127.0.0.1/dummy/Northsound_1
+#EXTINF:-1 tvg-id="Ocean FM" tvg-name="Ocean FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Ocean FM
+http://127.0.0.1/dummy/Ocean_FM
+#EXTINF:-1 tvg-id="Onda Cero Marbella" tvg-name="Onda Cero Marbella" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Onda Cero Marbella
+http://127.0.0.1/dummy/Onda_Cero_Marbella
+#EXTINF:-1 tvg-id="Original 106 FM" tvg-name="Original 106 FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Original 106 FM
+http://127.0.0.1/dummy/Original_106_FM
+#EXTINF:-1 tvg-id="Panjab Radio" tvg-name="Panjab Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Panjab Radio
+http://127.0.0.1/dummy/Panjab_Radio
+#EXTINF:-1 tvg-id="Planet Rock" tvg-name="Planet Rock" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Planet Rock
+http://127.0.0.1/dummy/Planet_Rock
+#EXTINF:-1 tvg-id="Premier Christian Radio" tvg-name="Premier Christian Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Premier Christian Radio
+http://127.0.0.1/dummy/Premier_Christian_Radio
+#EXTINF:-1 tvg-id="Pulse 1" tvg-name="Pulse 1" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Pulse 1
+http://127.0.0.1/dummy/Pulse_1
+#EXTINF:-1 tvg-id="Q" tvg-name="Q" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Q
+http://127.0.0.1/dummy/Q
+#EXTINF:-1 tvg-id="Radio Altea" tvg-name="Radio Altea" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Radio Altea
+http://127.0.0.1/dummy/Radio_Altea
+#EXTINF:-1 tvg-id="Radio Caroline" tvg-name="Radio Caroline" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Radio Caroline
+http://127.0.0.1/dummy/Radio_Caroline
+#EXTINF:-1 tvg-id="Radio City" tvg-name="Radio City" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Radio City
+http://127.0.0.1/dummy/Radio_City
+#EXTINF:-1 tvg-id="Radio City Talk" tvg-name="Radio City Talk" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Radio City Talk
+http://127.0.0.1/dummy/Radio_City_Talk
+#EXTINF:-1 tvg-id="Radio Kerry" tvg-name="Radio Kerry" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Radio Kerry
+http://127.0.0.1/dummy/Radio_Kerry
+#EXTINF:-1 tvg-id="Radio Maria Ireland" tvg-name="Radio Maria Ireland" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Radio Maria Ireland
+http://127.0.0.1/dummy/Radio_Maria_Ireland
+#EXTINF:-1 tvg-id="Radio Tyneside 93.6FM" tvg-name="Radio Tyneside 93.6FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Radio Tyneside 93.6FM
+http://127.0.0.1/dummy/Radio_Tyneside_93.6FM
+#EXTINF:-1 tvg-id="Radio X" tvg-name="Radio X" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Radio X
+http://127.0.0.1/dummy/Radio_X
+#EXTINF:-1 tvg-id="Radio XL" tvg-name="Radio XL" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Radio XL
+http://127.0.0.1/dummy/Radio_XL
+#EXTINF:-1 tvg-id="Rathergood Radio" tvg-name="Rathergood Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Rathergood Radio
+http://127.0.0.1/dummy/Rathergood_Radio
+#EXTINF:-1 tvg-id="Red FM" tvg-name="Red FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Red FM
+http://127.0.0.1/dummy/Red_FM
+#EXTINF:-1 tvg-id="Riviera Radio" tvg-name="Riviera Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Riviera Radio
+http://127.0.0.1/dummy/Riviera_Radio
+#EXTINF:-1 tvg-id="Rock FM" tvg-name="Rock FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Rock FM
+http://127.0.0.1/dummy/Rock_FM
+#EXTINF:-1 tvg-id="RTE 2FM" tvg-name="RTE 2FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",RTE 2FM
+http://127.0.0.1/dummy/RTE_2FM
+#EXTINF:-1 tvg-id="RTE 2XM" tvg-name="RTE 2XM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",RTE 2XM
+http://127.0.0.1/dummy/RTE_2XM
+#EXTINF:-1 tvg-id="RTE Gold" tvg-name="RTE Gold" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",RTE Gold
+http://127.0.0.1/dummy/RTE_Gold
+#EXTINF:-1 tvg-id="RTE Jr Radio" tvg-name="RTE Jr Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",RTE Jr Radio
+http://127.0.0.1/dummy/RTE_Jr_Radio
+#EXTINF:-1 tvg-id="RTE lyric fm" tvg-name="RTE lyric fm" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",RTE lyric fm
+http://127.0.0.1/dummy/RTE_lyric_fm
+#EXTINF:-1 tvg-id="RTE Pulse" tvg-name="RTE Pulse" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",RTE Pulse
+http://127.0.0.1/dummy/RTE_Pulse
+#EXTINF:-1 tvg-id="RTE Radio 1 Extra" tvg-name="RTE Radio 1 Extra" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",RTE Radio 1 Extra
+http://127.0.0.1/dummy/RTE_Radio_1_Extra
+#EXTINF:-1 tvg-id="RTE Radio 1 FM" tvg-name="RTE Radio 1 FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",RTE Radio 1 FM
+http://127.0.0.1/dummy/RTE_Radio_1_FM
+#EXTINF:-1 tvg-id="RTE Raidio na Gaeltachta" tvg-name="RTE Raidio na Gaeltachta" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",RTE Raidio na Gaeltachta
+http://127.0.0.1/dummy/RTE_Raidio_na_Gaeltachta
+#EXTINF:-1 tvg-id="Shannonside" tvg-name="Shannonside" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Shannonside
+http://127.0.0.1/dummy/Shannonside
+#EXTINF:-1 tvg-id="Share Radio" tvg-name="Share Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Share Radio
+http://127.0.0.1/dummy/Share_Radio
+#EXTINF:-1 tvg-id="Signal 1 96.9FM" tvg-name="Signal 1 96.9FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Signal 1 96.9FM
+http://127.0.0.1/dummy/Signal_1_96.9FM
+#EXTINF:-1 tvg-id="Smooth Radio 100.4" tvg-name="Smooth Radio 100.4" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Smooth Radio 100.4
+http://127.0.0.1/dummy/Smooth_Radio_100.4
+#EXTINF:-1 tvg-id="Smooth Radio 102.2" tvg-name="Smooth Radio 102.2" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Smooth Radio 102.2
+http://127.0.0.1/dummy/Smooth_Radio_102.2
+#EXTINF:-1 tvg-id="Smooth Radio 105.2" tvg-name="Smooth Radio 105.2" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Smooth Radio 105.2
+http://127.0.0.1/dummy/Smooth_Radio_105.2
+#EXTINF:-1 tvg-id="Smooth Radio 105.7" tvg-name="Smooth Radio 105.7" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Smooth Radio 105.7
+http://127.0.0.1/dummy/Smooth_Radio_105.7
+#EXTINF:-1 tvg-id="South East Radio" tvg-name="South East Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",South East Radio
+http://127.0.0.1/dummy/South_East_Radio
+#EXTINF:-1 tvg-id="Southampton Hospital Radio" tvg-name="Southampton Hospital Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Southampton Hospital Radio
+http://127.0.0.1/dummy/Southampton_Hospital_Radio
+#EXTINF:-1 tvg-id="Spectrum Radio FM" tvg-name="Spectrum Radio FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Spectrum Radio FM
+http://127.0.0.1/dummy/Spectrum_Radio_FM
+#EXTINF:-1 tvg-id="Spin 1038" tvg-name="Spin 1038" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Spin 1038
+http://127.0.0.1/dummy/Spin_1038
+#EXTINF:-1 tvg-id="Stafford FM" tvg-name="Stafford FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Stafford FM
+http://127.0.0.1/dummy/Stafford_FM
+#EXTINF:-1 tvg-id="Sukh Sagar" tvg-name="Sukh Sagar" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sukh Sagar
+http://127.0.0.1/dummy/Sukh_Sagar
+#EXTINF:-1 tvg-id="Sunshine 855" tvg-name="Sunshine 855" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Sunshine 855
+http://127.0.0.1/dummy/Sunshine_855
+#EXTINF:-1 tvg-id="Talk Radio" tvg-name="Talk Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Talk Radio
+http://127.0.0.1/dummy/Talk_Radio
+#EXTINF:-1 tvg-id="talkSPORT DAB" tvg-name="talkSPORT DAB" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",talkSPORT DAB
+http://127.0.0.1/dummy/talkSPORT_DAB
+#EXTINF:-1 tvg-id="talkSPORT Scotland" tvg-name="talkSPORT Scotland" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Sports",talkSPORT Scotland
+http://127.0.0.1/dummy/talkSPORT_Scotland
+#EXTINF:-1 tvg-id="Tay FM" tvg-name="Tay FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Tay FM
+http://127.0.0.1/dummy/Tay_FM
+#EXTINF:-1 tvg-id="TFM" tvg-name="TFM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",TFM
+http://127.0.0.1/dummy/TFM
+#EXTINF:-1 tvg-id="The Wave" tvg-name="The Wave" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",The Wave
+http://127.0.0.1/dummy/The_Wave
+#EXTINF:-1 tvg-id="Times Radio" tvg-name="Times Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Times Radio
+http://127.0.0.1/dummy/Times_Radio
+#EXTINF:-1 tvg-id="Tipp FM" tvg-name="Tipp FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Tipp FM
+http://127.0.0.1/dummy/Tipp_FM
+#EXTINF:-1 tvg-id="Today FM" tvg-name="Today FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Today FM
+http://127.0.0.1/dummy/Today_FM
+#EXTINF:-1 tvg-id="TWR" tvg-name="TWR" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",TWR
+http://127.0.0.1/dummy/TWR
+#EXTINF:-1 tvg-id="U105" tvg-name="U105" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",U105
+http://127.0.0.1/dummy/U105
+#EXTINF:-1 tvg-id="UCC 98.3FM" tvg-name="UCC 98.3FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",UCC 98.3FM
+http://127.0.0.1/dummy/UCC_98.3FM
+#EXTINF:-1 tvg-id="Viking FM" tvg-name="Viking FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Viking FM
+http://127.0.0.1/dummy/Viking_FM
+#EXTINF:-1 tvg-id="Wave 105" tvg-name="Wave 105" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",Wave 105
+http://127.0.0.1/dummy/Wave_105
+#EXTINF:-1 tvg-id="WCR FM" tvg-name="WCR FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",WCR FM
+http://127.0.0.1/dummy/WCR_FM
+#EXTINF:-1 tvg-id="WLR FM" tvg-name="WLR FM" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",WLR FM
+http://127.0.0.1/dummy/WLR_FM
+#EXTINF:-1 tvg-id="WRN Europe" tvg-name="WRN Europe" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Entertainment",WRN Europe
+http://127.0.0.1/dummy/WRN_Europe
+#EXTINF:-1 tvg-id="Youthcomm Radio" tvg-name="Youthcomm Radio" tvg-language="English" tvg-country="GB" tvg-logo="" group-title="Radio",Youthcomm Radio
+http://127.0.0.1/dummy/Youthcomm_Radio
